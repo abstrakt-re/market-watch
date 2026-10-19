@@ -1,18 +1,18 @@
-# Market Watch — 2026-10-17
+# Market Watch — 2026-10-19
 
-Updated: 2026-10-17T00:01:22.730220-04:00
+Updated: 2026-10-19T07:10:58.221294-04:00
 
-1. **Brent oil touches $110 as Iran escalates Hormuz attacks and Ukraine targets Russian refineries**  
-   Brent crude oil touched $110 and U.S. crude prices rose sharply as Iran escalated attacks in the Strait of Hormuz and Ukrainian President Volodymyr Zelenskyy vowed to resume strikes on Russian refineries. This supply-disruption surge builds on earlier tanker attacks, Houthi missile strikes on Riyadh airport, and a war-driven jump in U.S. inflation to 3.7%.
+1. **China's Q3 GDP growth accelerates to 4.5% on tech exports**  
+   China's third-quarter economic growth accelerated to 4.5%, beating estimates as strong foreign demand for technological goods largely offset sluggish domestic consumer demand. The export-driven expansion comes even as Chinese stocks recently lagged amid a stumbling global AI trade and trade deficits widened with partners such as New Zealand on electric vehicle and mobile phone imports.
 
-2. **CoreWeave credit fears trigger AI and tech stock rout**  
-   U.S. stocks logged their worst week since June and Treasury yields tumbled as a sharp sell-off in CoreWeave—which dropped 27.5% to 52-week lows before partially rebounding—led neocloud and tech stocks lower down to Alphabet. Investors are questioning whether AI profits will arrive fast enough to cover rising credit obligations for aspiring hyperscalers, widening the valuation spread between OpenAI and Anthropic as AI borrowing slows.
+2. **Iran warns of new operational plan as shipping strikes keep crude elevated**  
+   Building on the earlier oil rally to $110 a barrel, Iran's Supreme National Security Council Secretary Mohsen Rezaei warned that the country's military has prepared a new operational plan in case the U.S. resumes attacks, as shipping vessels reported fresh strikes. Crude futures continued to rise on persistent supply concerns tied to the Middle East conflict and Ukraine's renewed targeting of Russian refineries.
 
-3. **Fed Chair Warsh remarks ease rate-hike bets and halt dollar rally**  
-   The euro snapped a five-week losing streak and the U.S. dollar posted its worst week in a month after remarks from Federal Reserve Chairman Kevin Warsh were interpreted as supporting keeping interest rates on hold this month. Easing bets on an imminent Fed rate hike also kept gold steady even as higher oil prices pushed bond yields up.
+3. **DeepSeek v4.1 Flash release triggers South Korean chip stock sell-off**  
+   Following the release of DeepSeek's v4.1 Flash 1017 model, South Korean stocks resumed declines as the new model sparked concerns over memory chip demand, compounding existing market worries over AI financing. The sell-off comes despite recent assurances from South Korea's finance minister that tight supply would keep the semiconductor market solid at least through 2027.
 
-4. **Big U.S. bank stocks post worst weekly losing streak since 2008**  
-   Shares of major U.S. banks recorded their worst weekly losing streak since the 2008 Global Financial Crisis after quarterly earnings failed to lift sentiment for the sector. Earlier reports noted that Wall Street's record-breaking trading streak is set to cool.
+4. **French spending-cut protests deepen fiscal worries and weigh on euro**  
+   France experienced its worst unrest in years with thousands arrested over efforts to rein in government spending, prompting President Emmanuel Macron to vow an uncompromising response ahead of a critical budget vote. Coupled with escalating tensions in Ukraine, the protests deepened concerns over France's public finances and bond market stability, pushing the euro lower against most Group-of-10 peers.
 
-5. **MSCI downgrade warning triggers steepest Indonesian stock rout since 1998 and $117M in fines**  
-   Indonesian stocks suffered their steepest single-day drop since the 1998 Asian financial crisis after MSCI warned the country risked a downgrade or removal from its indexes over investability concerns. Within hours, Indonesian authorities announced roughly $117 million in fines tied to manipulative market practices involving three companies.
+5. **Trump waives broad new Russia sanctions and tariffs under Graham Act**  
+   U.S. President Donald Trump waived broad new Russia sanctions and tariffs under the Graham Act—which he signed into law in September—citing national interest. The decision puts new sanctions on hold following recent reports of a U.S.-Russia diesel deal, offering Moscow potential economic relief while increasing pressure on Ukraine.
