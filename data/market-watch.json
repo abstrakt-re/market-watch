@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-20T07:16:00.430151-04:00",
+  "generated_at": "2026-10-21T07:14:26.295001-04:00",
   "signals": [
     {
       "rank": 1,
-      "thesis": "Following the initial drop in the euro as French spending-cut protests broke out ahead of a budget vote, the unrest escalated into weekend riots involving more than 500,000 people and triggered a broader sell-off across Paris-listed stocks and French government bonds. With the French government in crisis mode, investors are increasingly concerned that political resistance to fiscal consolidation will deepen France's debt crisis.",
-      "title": "Paris stocks and French bonds slump as violent protests compound debt crisis fears"
+      "thesis": "SpaceX reported earnings showing its revenue doubled, driven by a surge in its artificial-intelligence business, sending its shares higher in late trading. Alongside the results, CEO Elon Musk announced that SpaceX and Tesla have formed committees to study a potential merger, formalizing deal speculation that followed last week's joint Roadster unveiling.",
+      "title": "SpaceX revenue doubles on AI business and Musk forms Tesla merger committees"
     },
     {
       "rank": 2,
-      "thesis": "China's central bank signaled that its overnight reverse repurchase rate will replace the current seven-day rate as the new policy benchmark, aligning its framework closer with global peers. The shift has the potential to push down borrowing costs as Beijing seeks to support sluggish domestic demand alongside strong tech export growth.",
-      "title": "PBOC plans shift to overnight reverse repo policy rate that could lower borrowing costs"
+      "thesis": "Extending the Middle East supply shock, Iranian attacks in the Persian Gulf escalated to strike more ship engine rooms and cause severer damage, while Houthi missile and drone attacks prompted Saudi Arabia to postpone its flagship investor conference to 2027. The escalation briefly drove benchmark oil prices above $111 a barrel and U.S. crude past $105, before oil slipped and equities rebounded on hopes of U.S.-Iran diplomacy.",
+      "title": "Iranian engine-room strikes push oil past $111 before U.S.-Iran diplomacy hopes temper rally"
     },
     {
       "rank": 3,
-      "thesis": "Extending the AI credit jitters that battered neocloud and tech stocks last week, SoftBank Group Corp.'s credit-default swaps climbed to their highest level in nearly four years amid growing concerns over AI-related funding and a potential large acquisition. Separately, Microsoft pulled the plug on an Nscale data center deal as the debt-laden U.S. AI infrastructure build-out faces mounting scrutiny.",
-      "title": "SoftBank CDS hit four-year high and Microsoft exits Nscale deal amid AI funding strain"
+      "thesis": "Following days of AI credit jitters that saw investors buy credit-default swaps to hedge AI exposure and neocloud stocks slide again as South Korean neocloud Elice Inc. plunged 30% in its trading debut, AI-related shares rallied in Tuesday after-hours trading. Strong preliminary sales results from server-maker Super Micro Computer Inc. brought relief to investors over the outlook for AI infrastructure spending.",
+      "title": "Super Micro preliminary sales spark after-hours AI rally after Korean IPO rout and CDS hedging"
     },
     {
       "rank": 4,
-      "thesis": "Bank of Canada surveys showed rising inflation expectations and growing evidence that businesses plan to pass higher input costs on to customers. Following the survey release, more economists and traders boosted bets that the Bank of Canada will hike interest rates next week.",
-      "title": "Bank of Canada surveys show rising inflation expectations, lifting rate-hike bets"
+      "thesis": "September U.S. housing market data came in weaker than expected, with home sales, construction, and builder sentiment all declining more sharply than forecast.",
+      "title": "U.S. September housing data shows broader-than-expected freeze"
     },
     {
       "rank": 5,
-      "thesis": "Reversing the multi-day rout that sent Indonesian equities to their lowest level since 2020, Indonesian stocks rebounded after authorities announced they will remove stocks with concentrated ownership from the benchmark index. The reform steps up Indonesia's response to MSCI Inc. following earlier market-manipulation fines as regulators work to avert a potential two-step market status downgrade.",
-      "title": "Indonesian stocks rebound as exchange moves to cut tightly held shares after MSCI warning"
+      "thesis": "European natural gas prices climbed above €90 for the first time in nearly four years, heightening the risk of a renewed energy crunch as Europe enters the peak winter heating season.",
+      "title": "European natural gas prices top €90 for first time since 2022"
     }
   ]
 }
