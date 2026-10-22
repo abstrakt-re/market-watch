@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-21T07:14:26.295001-04:00",
+  "generated_at": "2026-10-22T07:22:21.122800-04:00",
   "signals": [
     {
       "rank": 1,
-      "thesis": "SpaceX reported earnings showing its revenue doubled, driven by a surge in its artificial-intelligence business, sending its shares higher in late trading. Alongside the results, CEO Elon Musk announced that SpaceX and Tesla have formed committees to study a potential merger, formalizing deal speculation that followed last week's joint Roadster unveiling.",
-      "title": "SpaceX revenue doubles on AI business and Musk forms Tesla merger committees"
+      "thesis": "Meta Platforms reported a strong third quarter and guidance while laying out an ambitious monetization roadmap for its Muse AI model, which it launched as Muse Spark Open last week. Separately, the New Mexico Department of Justice ordered Meta to pay a $25 billion penalty in its Cambridge Analytica case.",
+      "title": "Meta beats Q3 estimates and outlines Muse AI monetization amid $25B New Mexico penalty"
     },
     {
       "rank": 2,
-      "thesis": "Extending the Middle East supply shock, Iranian attacks in the Persian Gulf escalated to strike more ship engine rooms and cause severer damage, while Houthi missile and drone attacks prompted Saudi Arabia to postpone its flagship investor conference to 2027. The escalation briefly drove benchmark oil prices above $111 a barrel and U.S. crude past $105, before oil slipped and equities rebounded on hopes of U.S.-Iran diplomacy.",
-      "title": "Iranian engine-room strikes push oil past $111 before U.S.-Iran diplomacy hopes temper rally"
+      "thesis": "Building on SpaceX's earnings beat and merger committee announcement, SpaceX shares jumped 8% and joined Super Micro Computer's preliminary fiscal first-quarter revenue guidance raise to $18.5 billion–$19.5 billion (up from $14.5 billion–$15.5 billion) in sparking a relief rally across U.S. chip and AI stocks. Tesla subsequently reported third-quarter earnings and sales that beat Wall Street expectations even as auto revenue declined and profit fell with batteries proving a barrier to growth, while CEO Elon Musk declined further comment on a SpaceX tie-up.",
+      "title": "Tesla beats Q3 expectations despite lower profit and auto revenue as SpaceX earnings lift AI stocks"
     },
     {
       "rank": 3,
-      "thesis": "Following days of AI credit jitters that saw investors buy credit-default swaps to hedge AI exposure and neocloud stocks slide again as South Korean neocloud Elice Inc. plunged 30% in its trading debut, AI-related shares rallied in Tuesday after-hours trading. Strong preliminary sales results from server-maker Super Micro Computer Inc. brought relief to investors over the outlook for AI infrastructure spending.",
-      "title": "Super Micro preliminary sales spark after-hours AI rally after Korean IPO rout and CDS hedging"
+      "thesis": "Extending the sell-off in French government bonds, France's 10-year yield reached 5% for the first time since 2002, pushing borrowing costs to a 24-year high. The surge underscores investor concern as the government faces pressure to cut spending while deploying troops to contain violent protests demanding higher public outlays.",
+      "title": "French 10-year bond yield hits 5% for first time since 2002 amid spending-cut unrest"
     },
     {
       "rank": 4,
-      "thesis": "September U.S. housing market data came in weaker than expected, with home sales, construction, and builder sentiment all declining more sharply than forecast.",
-      "title": "U.S. September housing data shows broader-than-expected freeze"
+      "thesis": "IBM beat third-quarter top- and bottom-line expectations as CEO Arvind Krishna highlighted client demand in artificial intelligence.",
+      "title": "IBM beats Q3 revenue and earnings estimates on AI demand"
     },
     {
       "rank": 5,
-      "thesis": "European natural gas prices climbed above €90 for the first time in nearly four years, heightening the risk of a renewed energy crunch as Europe enters the peak winter heating season.",
-      "title": "European natural gas prices top €90 for first time since 2022"
+      "thesis": "Jio's $3.2 billion initial public offering saw overwhelming demand on its first day of bidding, contrasting with recent stock-market weakness in parent Reliance Industries and the broader Nifty index.",
+      "title": "Jio's $3.2B IPO draws strong day-one demand despite Reliance and Nifty weakness"
     }
   ]
 }
