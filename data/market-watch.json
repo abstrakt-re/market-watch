@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-22T07:22:21.122800-04:00",
+  "generated_at": "2026-10-23T07:32:49.740802-04:00",
   "signals": [
     {
       "rank": 1,
-      "thesis": "Meta Platforms reported a strong third quarter and guidance while laying out an ambitious monetization roadmap for its Muse AI model, which it launched as Muse Spark Open last week. Separately, the New Mexico Department of Justice ordered Meta to pay a $25 billion penalty in its Cambridge Analytica case.",
-      "title": "Meta beats Q3 estimates and outlines Muse AI monetization amid $25B New Mexico penalty"
+      "thesis": "Reversing the initial positive reception to its third-quarter beat and Muse AI roadmap, Meta Platforms shares sank nearly 7% after the company disclosed further AI spending commitments that pushed its free cash flow negative, drove its five-year credit-default swaps to all-time highs, and accompanied plans to create a new class of non-voting shares. The renewed alarm over hyperscaler cash burn and AI capital needs dragged the Nasdaq down 2.6% and sparked a flight to safety that sent the 10-year U.S. Treasury yield below 5% in its biggest drop since 2023.",
+      "title": "Meta sinks nearly 7% on negative free cash flow from AI spend, dragging Nasdaq down 2.6% and 10-year Treasury yield below 5%"
     },
     {
       "rank": 2,
-      "thesis": "Building on SpaceX's earnings beat and merger committee announcement, SpaceX shares jumped 8% and joined Super Micro Computer's preliminary fiscal first-quarter revenue guidance raise to $18.5 billion–$19.5 billion (up from $14.5 billion–$15.5 billion) in sparking a relief rally across U.S. chip and AI stocks. Tesla subsequently reported third-quarter earnings and sales that beat Wall Street expectations even as auto revenue declined and profit fell with batteries proving a barrier to growth, while CEO Elon Musk declined further comment on a SpaceX tie-up.",
-      "title": "Tesla beats Q3 expectations despite lower profit and auto revenue as SpaceX earnings lift AI stocks"
+      "thesis": "Escalating the Middle East conflict, the U.S. ordered non-emergency diplomatic staff out of Saudi Arabia following Houthi strikes on an airport and an oil field, while reportedly preparing strikes against Iran after the U.S. midterm elections. The intensifying hostilities pushed oil futures higher and prompted QatarEnergy—whose own production has been throttled by the Iran war—to sign its first U.S. offtake deal with Cheniere Energy for 4 million tons of liquefied natural gas annually through 2054.",
+      "title": "U.S. evacuates Saudi embassy staff after Houthi strikes and reportedly readies post-midterm Iran strikes as Qatar buys U.S. LNG"
     },
     {
       "rank": 3,
-      "thesis": "Extending the sell-off in French government bonds, France's 10-year yield reached 5% for the first time since 2002, pushing borrowing costs to a 24-year high. The surge underscores investor concern as the government faces pressure to cut spending while deploying troops to contain violent protests demanding higher public outlays.",
-      "title": "French 10-year bond yield hits 5% for first time since 2002 amid spending-cut unrest"
+      "thesis": "Building on France's 10-year bond yield crossing 5%, the yield climbed to a new 24-year high on Thursday even as U.S. and German yields fell, widening the 10-year French-German spread to its highest level since 2011. The divergence underscores France's fiscal vulnerability ahead of another round of weekend protests, with President Emmanuel Macron condemning external criticism as bond market pressure builds.",
+      "title": "French-German 10-year bond spread hits widest since 2011 as French yields reach new 24-year high"
     },
     {
       "rank": 4,
-      "thesis": "IBM beat third-quarter top- and bottom-line expectations as CEO Arvind Krishna highlighted client demand in artificial intelligence.",
-      "title": "IBM beats Q3 revenue and earnings estimates on AI demand"
+      "thesis": "Japan's core inflation rose to 2.1% in September, matching economist forecasts and reaching its highest level this year. The reading pushed the key price gauge above the Bank of Japan's target for the first time in 2026, reinforcing expectations for a December BOJ interest rate hike as the yen also rallied to a one-month high on haven demand.",
+      "title": "Japan September core inflation hits 2.1% to top BOJ target for first time this year"
     },
     {
       "rank": 5,
-      "thesis": "Jio's $3.2 billion initial public offering saw overwhelming demand on its first day of bidding, contrasting with recent stock-market weakness in parent Reliance Industries and the broader Nifty index.",
-      "title": "Jio's $3.2B IPO draws strong day-one demand despite Reliance and Nifty weakness"
+      "thesis": "Chinese equities slid deeper into a bear market following a record losing streak, as stock purchases by state-backed funds failed to restore investor confidence despite a recent rebound in sovereign wealth fund investments into China and Hong Kong.",
+      "title": "China stocks sink deeper into bear market despite state-backed fund buying"
     }
   ]
 }
