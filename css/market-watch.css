@@ -45,8 +45,16 @@ body {
   background: var(--accent);
 }
 
+.masthead-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
 .eyebrow,
-.market-watch-footer p {
+.market-watch-footer p,
+.newsletter-link {
   margin: 0;
   color: var(--muted);
   font-size: 0.78rem;
@@ -150,14 +158,20 @@ h1 {
   border-top: 2px solid var(--ink);
 }
 
-.rss-link {
+.market-watch-footer a {
+  color: inherit;
+}
+
+.rss-link,
+.newsletter-link {
   display: inline-flex;
   align-items: center;
   gap: 6px;
   color: var(--muted);
 }
 
-.rss-link svg {
+.rss-link svg,
+.newsletter-link svg {
   color: var(--accent);
 }
 
