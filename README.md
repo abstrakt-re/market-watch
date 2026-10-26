@@ -3,7 +3,7 @@
 [![RSS](https://img.shields.io/badge/rss-subscribe-ff9900?logo=rss&logoColor=white)](https://abstraktre.com/market-watch/feed.xml)
 [![pages-build-deployment](https://github.com/abstrakt-re/market-watch/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/abstrakt-re/market-watch/actions/workflows/pages/pages-build-deployment)
 
-The top market signals, every morning: a brief on tech, business and the economy.
+What’s worth watching today: a brief on tech, business and the economy.
 
 **Live site:** https://abstraktre.com/market-watch/
 
