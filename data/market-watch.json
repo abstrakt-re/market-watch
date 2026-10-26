@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-23T07:32:49.740802-04:00",
+  "generated_at": "2026-10-26T09:53:03.831565-04:00",
   "signals": [
     {
       "rank": 1,
-      "thesis": "Reversing the initial positive reception to its third-quarter beat and Muse AI roadmap, Meta Platforms shares sank nearly 7% after the company disclosed further AI spending commitments that pushed its free cash flow negative, drove its five-year credit-default swaps to all-time highs, and accompanied plans to create a new class of non-voting shares. The renewed alarm over hyperscaler cash burn and AI capital needs dragged the Nasdaq down 2.6% and sparked a flight to safety that sent the 10-year U.S. Treasury yield below 5% in its biggest drop since 2023.",
-      "title": "Meta sinks nearly 7% on negative free cash flow from AI spend, dragging Nasdaq down 2.6% and 10-year Treasury yield below 5%"
+      "thesis": "Brazilian President Luiz Inácio Lula da Silva won a fourth term in a comeback runoff victory over right-wing candidate Flávio Bolsonaro—the first time since Brazil's 1989 return to direct elections that a first-round loser won the final vote—while Bolsonaro reportedly refused to concede. Because many investors and Wall Street strategists had favored Bolsonaro and recommended buying Brazilian assets ahead of the tight vote, traders are bracing for steep losses across Brazilian markets on Monday.",
+      "title": "Brazil markets brace for rout after Lula wins historic fourth term and Bolsonaro reportedly refuses to concede"
     },
     {
       "rank": 2,
-      "thesis": "Escalating the Middle East conflict, the U.S. ordered non-emergency diplomatic staff out of Saudi Arabia following Houthi strikes on an airport and an oil field, while reportedly preparing strikes against Iran after the U.S. midterm elections. The intensifying hostilities pushed oil futures higher and prompted QatarEnergy—whose own production has been throttled by the Iran war—to sign its first U.S. offtake deal with Cheniere Energy for 4 million tons of liquefied natural gas annually through 2054.",
-      "title": "U.S. evacuates Saudi embassy staff after Houthi strikes and reportedly readies post-midterm Iran strikes as Qatar buys U.S. LNG"
+      "thesis": "Building on SpaceX's recent third-quarter earnings beat and exploration of a merger with Tesla, Elon Musk announced that SpaceX has closed $40 billion in debt financing to purchase GPUs. The massive debt raise adds to the ongoing AI infrastructure borrowing wave at a time when investor scrutiny of AI capital needs and debt pressures at peers like Meta and CoreWeave has intensified.",
+      "title": "SpaceX closes $40B debt financing deal to purchase AI GPUs"
     },
     {
       "rank": 3,
-      "thesis": "Building on France's 10-year bond yield crossing 5%, the yield climbed to a new 24-year high on Thursday even as U.S. and German yields fell, widening the 10-year French-German spread to its highest level since 2011. The divergence underscores France's fiscal vulnerability ahead of another round of weekend protests, with President Emmanuel Macron condemning external criticism as bond market pressure builds.",
-      "title": "French-German 10-year bond spread hits widest since 2011 as French yields reach new 24-year high"
+      "thesis": "Following a surge in France's 10-year bond yield to a 24-year high above 5% and the widest French-German yield spread since 2011, Moody's left France's credit rating unchanged at Aa3. The decision offers a measure of relief as the country grapples with violent cost-of-living protests and fiscal pressure.",
+      "title": "Moody's holds France's credit rating at Aa3 amid bond sell-off and unrest"
     },
     {
       "rank": 4,
-      "thesis": "Japan's core inflation rose to 2.1% in September, matching economist forecasts and reaching its highest level this year. The reading pushed the key price gauge above the Bank of Japan's target for the first time in 2026, reinforcing expectations for a December BOJ interest rate hike as the yen also rallied to a one-month high on haven demand.",
-      "title": "Japan September core inflation hits 2.1% to top BOJ target for first time this year"
+      "thesis": "Following a Section 338 lawsuit and political pressure ahead of the U.S. midterms over 50% tariffs on Canadian goods, Senator Susan Collins announced that the U.S. was dropping Canadian tariffs, but the White House clarified it is replacing the removed duties with tariffs on other products. The shift prolongs trade uncertainty between the U.S. and Canada as Bank of Canada surveys already show rising inflation expectations and plans by firms to pass higher input costs to customers.",
+      "title": "Trump administration drops some Canada tariffs but plans replacements on other products"
     },
     {
       "rank": 5,
-      "thesis": "Chinese equities slid deeper into a bear market following a record losing streak, as stock purchases by state-backed funds failed to restore investor confidence despite a recent rebound in sovereign wealth fund investments into China and Hong Kong.",
-      "title": "China stocks sink deeper into bear market despite state-backed fund buying"
+      "thesis": "Amgen reported that adding its drug to an immunotherapy from AstraZeneca cut the risk of death by 58% in patients with an aggressive form of lung cancer, giving them significantly more time to live.",
+      "title": "Amgen and AstraZeneca lung cancer drug combination cuts risk of death by 58%"
     }
   ]
 }
