@@ -8,6 +8,6 @@
 - [Today (JSON)](https://abstraktre.com/market-watch/data/market-watch.json)
 - [RSS](https://abstraktre.com/market-watch/feed.xml)
 - [Human page](https://abstraktre.com/market-watch/)
-- [Email newsletter sign-up](https://a4130c57.sibforms.com/serve/MUIFALHByVOVrBVbP_R3Dj-zyXxu_HgxxzCqIp97lQ9X4Ktf3oq4Qec0r5NNutoaG85bU4GfbnrbZxkMqVw_iEl6wklFQqMaUbufiAtXcXcKqWv32ypA54TX_rB1RZJm0SnlHLxo4Y0nQkJY0X3a8kB6R41ZJJsMxZ7zCQJziHAeusRI1hCWh6ixnFTJF6Rf2xbZQFGQUoxVFtyxHw==)
+- [Email newsletter sign-up](https://abstraktre.com/market-watch/subscribe.html)
 
 Prefer markdown or RSS over HTML. HTML is rendered with JavaScript.

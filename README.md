@@ -23,7 +23,7 @@ One brief, published wherever you read:
 | RSS | https://abstraktre.com/market-watch/feed.xml |
 | Markdown (today) | https://abstraktre.com/market-watch/today.md |
 | JSON (today) | https://abstraktre.com/market-watch/data/market-watch.json |
-| Email | [Sign up](https://a4130c57.sibforms.com/serve/MUIFALHByVOVrBVbP_R3Dj-zyXxu_HgxxzCqIp97lQ9X4Ktf3oq4Qec0r5NNutoaG85bU4GfbnrbZxkMqVw_iEl6wklFQqMaUbufiAtXcXcKqWv32ypA54TX_rB1RZJm0SnlHLxo4Y0nQkJY0X3a8kB6R41ZJJsMxZ7zCQJziHAeusRI1hCWh6ixnFTJF6Rf2xbZQFGQUoxVFtyxHw==) |
+| Email | [Sign up](https://abstraktre.com/market-watch/subscribe.html) |
 
 Add the live site URL or `feed.xml` to a feed reader to subscribe. Each RSS item is one signal. To get the brief by email instead, use the **Newsletter** link at the top of the page.
 

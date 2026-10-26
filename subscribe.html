@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Get Market Watch by email: the top market signals, every morning.">
+    <meta name="theme-color" content="#f4f7f6">
+    <title>Subscribe · Market Watch</title>
+    <link rel="icon" href="https://avatars.githubusercontent.com/u/337943099?s=200&v=4">
+    <link rel="stylesheet" href="css/market-watch.css">
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="masthead">
+        <p class="eyebrow">Daily market signals</p>
+        <h1>Market Watch</h1>
+      </header>
+
+      <section class="results" aria-label="Email sign-up">
+        <div class="subscribe-intro">
+          <p class="signal-title">Get Market Watch by email.</p>
+          <p class="signal-thesis">The top market signals in your inbox every morning. Always free. Unsubscribe anytime.</p>
+        </div>
+
+        <!--
+          Brevo sign-up form (list #3, double opt-in). The markup comes from Brevo's
+          embed code, restyled with market-watch.css. Brevo's main.js finds the form by
+          these ids and classes, so keep them when editing. The form sends sign-ups to
+          sibforms.com in the background.
+        -->
+        <div class="sib-form">
+          <div id="sib-form-container" class="sib-form-container">
+            <div id="error-message" class="sib-form-message-panel" role="alert">
+              <p class="sib-form-message-panel__inner-text">Your subscription could not be saved. Please try again.</p>
+            </div>
+            <div id="success-message" class="sib-form-message-panel" role="status">
+              <p class="sib-form-message-panel__inner-text">Almost done. Check your inbox to confirm.</p>
+            </div>
+
+            <div id="sib-container">
+              <form
+                id="sib-form"
+                class="subscribe-form"
+                method="POST"
+                action="https://a4130c57.sibforms.com/serve/MUIFALHByVOVrBVbP_R3Dj-zyXxu_HgxxzCqIp97lQ9X4Ktf3oq4Qec0r5NNutoaG85bU4GfbnrbZxkMqVw_iEl6wklFQqMaUbufiAtXcXcKqWv32ypA54TX_rB1RZJm0SnlHLxo4Y0nQkJY0X3a8kB6R41ZJJsMxZ7zCQJziHAeusRI1hCWh6ixnFTJF6Rf2xbZQFGQUoxVFtyxHw=="
+                data-type="subscription"
+              >
+                <div class="sib-input sib-form-block">
+                  <div class="form__entry">
+                    <label class="subscribe-label" for="EMAIL">Email address</label>
+                    <input
+                      class="input subscribe-input"
+                      type="email"
+                      id="EMAIL"
+                      name="EMAIL"
+                      autocomplete="email"
+                      placeholder="you@example.com"
+                      data-required="true"
+                      required
+                      aria-describedby="EMAIL-error"
+                    >
+                    <p class="entry__error entry__error--primary" id="EMAIL-error" aria-live="polite"></p>
+                  </div>
+                </div>
+
+                <div class="sib-captcha sib-form-block">
+                  <div class="form__entry">
+                    <script>
+                      function handleCaptchaResponse() {
+                        var event = new Event("captchaChange");
+                        document.getElementById("sib-captcha").dispatchEvent(event);
+                        window.grecaptcha = window.turnstile;
+                      }
+                    </script>
+                    <div
+                      class="cf-turnstile g-recaptcha subscribe-captcha"
+                      id="sib-captcha"
+                      data-sitekey="0x4AAAAAAFlmgeBA_Cqy--cj"
+                      data-callback="handleCaptchaResponse"
+                      data-language="en"
+                      data-theme="light"
+                    ></div>
+                    <p class="entry__error entry__error--primary" aria-live="polite"></p>
+                  </div>
+                </div>
+
+                <div class="sib-form-block">
+                  <button class="sib-form-block__button sib-form-block__button-with-loader subscribe-button" form="sib-form" type="submit">
+                    <svg class="subscribe-spinner sib-hide-loader-icon" viewBox="0 0 512 512" aria-hidden="true" focusable="false">
+                      <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"/>
+                    </svg>
+                    Subscribe
+                  </button>
+                </div>
+
+                <input type="text" name="email_address_check" value="" class="input--hidden" tabindex="-1" autocomplete="off">
+                <input type="hidden" name="locale" value="en">
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="market-watch-footer">
+        <p><a href="./">Read today’s brief</a></p>
+        <p>
+          <a class="rss-link" href="feed.xml">
+            <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false">
+              <circle cx="5" cy="19" r="2" fill="currentColor"></circle>
+              <path d="M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16" fill="none" stroke="currentColor" stroke-width="2.5"></path>
+            </svg>
+            RSS
+          </a>
+        </p>
+      </footer>
+    </main>
+
+    <script>
+      window.REQUIRED_CODE_ERROR_MESSAGE = "Please choose a country code";
+      window.LOCALE = "en";
+      window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "That email address doesn’t look right. Please check it and try again.";
+      window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank.";
+      window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+      window.INVALID_NUMBER = "The information provided is invalid. Please review the field format and try again.";
+      window.INVALID_DATE = "Please enter a valid date";
+      window.REQUIRED_MULTISELECT_MESSAGE = "Please select at least 1 option";
+      window.translation = {
+        common: {
+          selectedList: "{quantity} list selected",
+          selectedLists: "{quantity} lists selected",
+          selectedOption: "{quantity} selected",
+          selectedOptions: "{quantity} selected",
+        },
+      };
+      // Hide the form once Brevo accepts a sign-up, leaving only the "check your inbox" message.
+      var AUTOHIDE = Boolean(1);
+    </script>
+    <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+    <script async defer src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
+  </body>
+</html>
