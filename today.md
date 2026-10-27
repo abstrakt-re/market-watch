@@ -1,18 +1,18 @@
-# Market Watch — 2026-10-26
+# Market Watch — 2026-10-27
 
-Updated: 2026-10-26T09:53:03.831565-04:00
+Updated: 2026-10-27T07:16:20.944382-04:00
 
-1. **Brazil markets brace for rout after Lula wins historic fourth term and Bolsonaro reportedly refuses to concede**  
-   Brazilian President Luiz Inácio Lula da Silva won a fourth term in a comeback runoff victory over right-wing candidate Flávio Bolsonaro—the first time since Brazil's 1989 return to direct elections that a first-round loser won the final vote—while Bolsonaro reportedly refused to concede. Because many investors and Wall Street strategists had favored Bolsonaro and recommended buying Brazilian assets ahead of the tight vote, traders are bracing for steep losses across Brazilian markets on Monday.
+1. **Meta announces $95B stock offering for AI as Nvidia, AMD, and Broadcom eye $5B in shares**  
+   Following the market sell-off over Meta Platforms' negative free cash flow, record-high credit-default swaps, and plans for a new non-voting share class, Meta announced plans to raise $95 billion via a stock offering to fund AI infrastructure and superintelligence. Nvidia, AMD, and Broadcom are eyeing up to $5 billion in the shares, highlighting how chip suppliers are increasingly helping finance hyperscaler capital needs.
 
-2. **SpaceX closes $40B debt financing deal to purchase AI GPUs**  
-   Building on SpaceX's recent third-quarter earnings beat and exploration of a merger with Tesla, Elon Musk announced that SpaceX has closed $40 billion in debt financing to purchase GPUs. The massive debt raise adds to the ongoing AI infrastructure borrowing wave at a time when investor scrutiny of AI capital needs and debt pressures at peers like Meta and CoreWeave has intensified.
+2. **Brazilian assets, emerging currencies, and crop prices plunge after Lula's runoff win**  
+   Following trader preparations for a rout after President Luiz Inácio Lula da Silva's 51.8% to 48.2% runoff victory over investor-favored Flávio Bolsonaro, Brazil's main stock index sank to a two-month low alongside a plunge in the nation's currency, debt, and Brazil-linked equities like PagSeguro. The currency drop dragged down most emerging-market currencies and triggered a slump in soybean and coffee prices by boosting export prospects for the agricultural giant.
 
-3. **Moody's holds France's credit rating at Aa3 amid bond sell-off and unrest**  
-   Following a surge in France's 10-year bond yield to a 24-year high above 5% and the widest French-German yield spread since 2011, Moody's left France's credit rating unchanged at Aa3. The decision offers a measure of relief as the country grapples with violent cost-of-living protests and fiscal pressure.
+3. **Anthropic files for IPO and seals $63B Broadcom-backed financing deal, sparking global tech rally**  
+   Anthropic filed its S-1 paperwork to go public next month while a coalition of banks and Blackstone lined up a record $63 billion financing vehicle—sealed after intervention by Broadcom's CEO—to buy AI computing infrastructure from Broadcom and lease it to Anthropic. Although the filing warned Anthropic may need additional financing sooner than anticipated and said little on a path to an investment-grade credit rating, the move stemmed AI bubble anxiety and drove a rally in U.S. tech and Asian semiconductor stocks.
 
-4. **Trump administration drops some Canada tariffs but plans replacements on other products**  
-   Following a Section 338 lawsuit and political pressure ahead of the U.S. midterms over 50% tariffs on Canadian goods, Senator Susan Collins announced that the U.S. was dropping Canadian tariffs, but the White House clarified it is replacing the removed duties with tariffs on other products. The shift prolongs trade uncertainty between the U.S. and Canada as Bank of Canada surveys already show rising inflation expectations and plans by firms to pass higher input costs to customers.
+4. **China 5-year bond yield hits record low after PBOC steps up cash injection**  
+   China's five-year government bond yield dropped to an all-time low after the People's Bank of China increased its cash injection into the banking system. The central bank liquidity boost comes as Chinese equities remain mired in a bear market and heavily indebted local governments cut back.
 
-5. **Amgen and AstraZeneca lung cancer drug combination cuts risk of death by 58%**  
-   Amgen reported that adding its drug to an immunotherapy from AstraZeneca cut the risk of death by 58% in patients with an aggressive form of lung cancer, giving them significantly more time to live.
+5. **Oil prices fall as Saudi defense minister travels to Iran for de-escalation talks**  
+   Following recent Houthi strikes on Saudi infrastructure and U.S. diplomatic evacuations that had pushed crude to five-month highs, oil prices fell as Saudi Arabia's defense minister traveled to Iran for talks to de-escalate the conflict. Traders weighed the diplomatic outreach and concerns that elevated prices could erode demand against the ongoing threat of further attacks on Saudi energy sites.
