@@ -1,18 +1,18 @@
-# Market Watch — 2026-10-27
+# Market Watch — 2026-10-28
 
-Updated: 2026-10-27T07:16:20.944382-04:00
+Updated: 2026-10-28T07:15:11.738978-04:00
 
-1. **Meta announces $95B stock offering for AI as Nvidia, AMD, and Broadcom eye $5B in shares**  
-   Following the market sell-off over Meta Platforms' negative free cash flow, record-high credit-default swaps, and plans for a new non-voting share class, Meta announced plans to raise $95 billion via a stock offering to fund AI infrastructure and superintelligence. Nvidia, AMD, and Broadcom are eyeing up to $5 billion in the shares, highlighting how chip suppliers are increasingly helping finance hyperscaler capital needs.
+1. **New Zealand dollar tumbles after RBNZ unexpectedly holds policy rate**  
+   The Reserve Bank of New Zealand unexpectedly kept its policy rate on hold, defying economists' forecasts for an interest-rate hike. The decision sent the New Zealand dollar tumbling, posting its steepest drop against the Australian dollar since 2017.
 
-2. **Brazilian assets, emerging currencies, and crop prices plunge after Lula's runoff win**  
-   Following trader preparations for a rout after President Luiz Inácio Lula da Silva's 51.8% to 48.2% runoff victory over investor-favored Flávio Bolsonaro, Brazil's main stock index sank to a two-month low alongside a plunge in the nation's currency, debt, and Brazil-linked equities like PagSeguro. The currency drop dragged down most emerging-market currencies and triggered a slump in soybean and coffee prices by boosting export prospects for the agricultural giant.
+2. **Nvidia and AMD commit $4B to Meta's $95B AI capital raise**  
+   Following reports that Nvidia, AMD, and Broadcom were eyeing up to $5 billion in Meta's $95 billion offering for AI infrastructure, Nvidia and AMD will invest $4 billion in Meta to deepen their AI partnership.
 
-3. **Anthropic files for IPO and seals $63B Broadcom-backed financing deal, sparking global tech rally**  
-   Anthropic filed its S-1 paperwork to go public next month while a coalition of banks and Blackstone lined up a record $63 billion financing vehicle—sealed after intervention by Broadcom's CEO—to buy AI computing infrastructure from Broadcom and lease it to Anthropic. Although the filing warned Anthropic may need additional financing sooner than anticipated and said little on a path to an investment-grade credit rating, the move stemmed AI bubble anxiety and drove a rally in U.S. tech and Asian semiconductor stocks.
+3. **SK Hynix posts seven-fold profit surge and unveils shareholder return plan**  
+   After shelving plans for a U.S. IPO of its Solidigm memory unit amid market volatility last week, SK Hynix reported a stronger-than-expected seven-fold surge in third-quarter profit on AI hardware demand and unveiled an additional shareholder return program. The earnings beat and capital return announcement sent the South Korean chipmaker's shares soaring over 8%.
 
-4. **China 5-year bond yield hits record low after PBOC steps up cash injection**  
-   China's five-year government bond yield dropped to an all-time low after the People's Bank of China increased its cash injection into the banking system. The central bank liquidity boost comes as Chinese equities remain mired in a bear market and heavily indebted local governments cut back.
+4. **Boeing shares slide on free cash flow reset despite 4% revenue growth**  
+   Following recent FAA approval for its 737 Max 10, Boeing reported a third-quarter loss due to higher commercial-jet costs even as defense sales lifted total revenue 4% to $24.19 billion and 737 production progressed toward 47 jets a month. Shares slid after the plane maker reset investor expectations for free cash flow growth over the coming years.
 
-5. **Oil prices fall as Saudi defense minister travels to Iran for de-escalation talks**  
-   Following recent Houthi strikes on Saudi infrastructure and U.S. diplomatic evacuations that had pushed crude to five-month highs, oil prices fell as Saudi Arabia's defense minister traveled to Iran for talks to de-escalate the conflict. Traders weighed the diplomatic outreach and concerns that elevated prices could erode demand against the ongoing threat of further attacks on Saudi energy sites.
+5. **UPS beats Q3 estimates and raises full-year sales outlook again**  
+   UPS beat third-quarter earnings and revenue estimates as shipping demand remained strong despite price increases. The courier raised its full-year guidance for a second consecutive quarter in anticipation of a strong holiday shipping season.
