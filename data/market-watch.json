@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-28T07:15:11.738978-04:00",
+  "generated_at": "2026-10-29T07:20:19.178849-04:00",
   "signals": [
     {
       "rank": 1,
-      "thesis": "The Reserve Bank of New Zealand unexpectedly kept its policy rate on hold, defying economists' forecasts for an interest-rate hike. The decision sent the New Zealand dollar tumbling, posting its steepest drop against the Australian dollar since 2017.",
-      "title": "New Zealand dollar tumbles after RBNZ unexpectedly holds policy rate"
+      "thesis": "Following its September rate increase and hotter-than-expected September inflation data, the Federal Reserve kept interest rates unchanged as widely expected and offered limited guidance on a potential December hike. Stocks and 10-year Treasury yields edged higher while gold dipped below $4,000 an ounce as Wall Street read Chair Kevin Warsh as hesitant to hike aggressively.",
+      "title": "Federal Reserve holds rates steady with limited December guidance"
     },
     {
       "rank": 2,
-      "thesis": "Following reports that Nvidia, AMD, and Broadcom were eyeing up to $5 billion in Meta's $95 billion offering for AI infrastructure, Nvidia and AMD will invest $4 billion in Meta to deepen their AI partnership.",
-      "title": "Nvidia and AMD commit $4B to Meta's $95B AI capital raise"
+      "thesis": "Alphabet missed third-quarter earnings and revenue expectations—its first top- and bottom-line miss in nearly four years—sending its shares down 10% as it held 2026 capital expenditures unchanged while projecting a significant increase in 2027. Alongside a slide in Samsung Electronics shares despite record third-quarter profit, the results snapped this week's technology rally and revived investor concerns over heavy AI spending.",
+      "title": "Alphabet and Samsung earnings drags snap tech stock rally"
     },
     {
       "rank": 3,
-      "thesis": "After shelving plans for a U.S. IPO of its Solidigm memory unit amid market volatility last week, SK Hynix reported a stronger-than-expected seven-fold surge in third-quarter profit on AI hardware demand and unveiled an additional shareholder return program. The earnings beat and capital return announcement sent the South Korean chipmaker's shares soaring over 8%.",
-      "title": "SK Hynix posts seven-fold profit surge and unveils shareholder return plan"
+      "thesis": "Following recent voluntary buyout offers to 60,000 employees to balance AI infrastructure spending with capital efficiency, Microsoft reported better-than-expected quarterly earnings and revenue driven by 48% Azure growth, lifting its stock 4%. However, Microsoft's lower-than-expected capital expenditure figure signaled that infrastructure partners are taking longer to deliver capacity, sending shares of neocloud providers CoreWeave, Nebius, and IREN lower.",
+      "title": "Microsoft beats on 48% Azure growth while lower capex hits neocloud stocks"
     },
     {
       "rank": 4,
-      "thesis": "Following recent FAA approval for its 737 Max 10, Boeing reported a third-quarter loss due to higher commercial-jet costs even as defense sales lifted total revenue 4% to $24.19 billion and 737 production progressed toward 47 jets a month. Shares slid after the plane maker reset investor expectations for free cash flow growth over the coming years.",
-      "title": "Boeing shares slide on free cash flow reset despite 4% revenue growth"
+      "thesis": "Following recent diplomatic efforts including the Saudi defense minister's trip to Iran and reports of potential post-midterm U.S. military action, Vice President Vance engaged Iran to revive peace talks.",
+      "title": "Vice President Vance engages Iran to revive peace talks"
     },
     {
       "rank": 5,
-      "thesis": "UPS beat third-quarter earnings and revenue estimates as shipping demand remained strong despite price increases. The courier raised its full-year guidance for a second consecutive quarter in anticipation of a strong holiday shipping season.",
-      "title": "UPS beats Q3 estimates and raises full-year sales outlook again"
+      "thesis": "Following anticipation over fiscal discipline in the Burnham government's first Autumn Budget and a newly proposed package to cushion household energy bills, UK Chancellor John Healey raised taxes on UK banks and vowed to keep public finances stable.",
+      "title": "UK Chancellor John Healey raises bank taxes in Autumn Budget"
     }
   ]
 }
