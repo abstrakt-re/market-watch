@@ -6,6 +6,7 @@
 
 - [Today (markdown)](https://abstraktre.com/market-watch/today.md)
 - [Today (JSON)](https://abstraktre.com/market-watch/data/market-watch.json)
+- [Today (JSON, Simplified Chinese translation)](https://abstraktre.com/market-watch/data/market-watch.zh.json)
 - [RSS](https://abstraktre.com/market-watch/feed.xml)
 - [Human page](https://abstraktre.com/market-watch/)
 - [Email newsletter sign-up](https://abstraktre.com/market-watch/subscribe.html)

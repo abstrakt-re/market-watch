@@ -9,6 +9,7 @@
     <link rel="icon" href="https://avatars.githubusercontent.com/u/337943099?s=200&v=4">
     <link rel="alternate" type="application/rss+xml" title="Market Watch: daily market signals" href="feed.xml">
     <link rel="alternate" type="text/markdown" title="Today’s brief (markdown)" href="today.md">
+    <link rel="alternate" hreflang="zh-Hans" href="?lang=zh">
     <link rel="describedby" href="llms.txt">
     <link rel="stylesheet" href="css/market-watch.css">
   </head>
@@ -16,19 +17,27 @@
     <main class="page-shell">
       <header class="masthead">
         <div class="masthead-top">
-          <p class="eyebrow">Daily market signals</p>
-          <a class="newsletter-link" href="subscribe.html">
-            <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false">
-              <rect x="3" y="5.5" width="18" height="13" rx="1.5" fill="none" stroke="currentColor" stroke-width="2.5"></rect>
-              <path d="M4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="2.5"></path>
-            </svg>
-            Newsletter
-          </a>
+          <p class="eyebrow" data-text="eyebrow">Daily market signals</p>
+          <div class="masthead-links">
+            <nav class="language-toggle" aria-label="Language">
+              <a href="?lang=en" hreflang="en" lang="en" data-language="en">EN</a>
+              <span aria-hidden="true">/</span>
+              <a href="?lang=zh" hreflang="zh-Hans" lang="zh-Hans" data-language="zh">中文</a>
+            </nav>
+            <a class="newsletter-link" href="subscribe.html">
+              <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false">
+                <rect x="3" y="5.5" width="18" height="13" rx="1.5" fill="none" stroke="currentColor" stroke-width="2.5"></rect>
+                <path d="M4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="2.5"></path>
+              </svg>
+              <span data-text="newsletter">Newsletter</span>
+            </a>
+          </div>
         </div>
         <h1>Market Watch</h1>
       </header>
 
-      <section class="results" aria-label="Current market signals">
+      <section class="results" aria-label="Current market signals" data-label="results">
+        <p id="language-note" class="language-note" hidden>今日中文版尚未更新，以下为英文原文。</p>
         <ul id="signal-list" class="signal-list" hidden></ul>
         <p id="empty-state" class="empty-state">No signals yet.</p>
       </section>
@@ -41,27 +50,111 @@
               <circle cx="5" cy="19" r="2" fill="currentColor"></circle>
               <path d="M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16" fill="none" stroke="currentColor" stroke-width="2.5"></path>
             </svg>
-            RSS
+            <span data-text="rss">RSS</span>
           </a>
         </p>
-        <p class="footer-credit">Market Watch is brought to you by Abstrakt Re <span class="nowrap">(contact AT abstraktre.com).</span></p>
+        <p id="translation-note" class="footer-credit" hidden>中文内容由 AI 从英文翻译，如有出入，以英文原文为准。</p>
+        <p class="footer-credit"><span data-text="credit">Market Watch is brought to you by Abstrakt Re</span> <span class="nowrap" data-text="contact">(contact AT abstraktre.com).</span></p>
       </footer>
     </main>
 
     <script>
+      // The Chinese brief is an AI translation of the English one, published next to it
+      // with the same generated_at. RSS, markdown and email stay English.
+      const TEXT = {
+        en: {
+          eyebrow: "Daily market signals",
+          newsletter: "Newsletter",
+          rss: "RSS",
+          credit: "Market Watch is brought to you by Abstrakt Re",
+          contact: "(contact AT abstraktre.com).",
+          results: "Current market signals",
+          empty: "No signals yet.",
+          unavailable: "Market signals are unavailable right now.",
+          updated: "Last updated: ",
+          notYet: "not yet.",
+          updateUnavailable: "unavailable.",
+        },
+        zh: {
+          eyebrow: "每日市场信号",
+          newsletter: "英文邮件订阅",
+          rss: "RSS（英文）",
+          credit: "Market Watch 由 Abstrakt Re 出品",
+          contact: "（联系：contact AT abstraktre.com）",
+          results: "今日市场信号",
+          empty: "暂无信号。",
+          unavailable: "市场信号暂时无法加载。",
+          updated: "最后更新：",
+          notYet: "暂无。",
+          updateUnavailable: "暂不可用。",
+        },
+      };
+      const BRIEF_PATHS = { en: "data/market-watch.json", zh: "data/market-watch.zh.json" };
+      const LANGUAGE_KEY = "market-watch-language";
+
+      const language = chooseLanguage();
+      const text = TEXT[language];
       const signalList = document.querySelector("#signal-list");
       const emptyState = document.querySelector("#empty-state");
       const refreshTime = document.querySelector("#refresh-time");
+      const languageNote = document.querySelector("#language-note");
+
+      // ?lang= in the URL wins and is remembered; otherwise use the saved choice, then English.
+      function chooseLanguage() {
+        const requested = new URLSearchParams(window.location.search).get("lang");
+        if (Object.hasOwn(TEXT, requested)) {
+          try {
+            localStorage.setItem(LANGUAGE_KEY, requested);
+          } catch {}
+          return requested;
+        }
+        try {
+          const saved = localStorage.getItem(LANGUAGE_KEY);
+          if (Object.hasOwn(TEXT, saved)) {
+            return saved;
+          }
+        } catch {}
+        return "en";
+      }
+
+      function applyLanguage() {
+        document.documentElement.lang = language === "zh" ? "zh-Hans" : "en";
+        document.querySelectorAll("[data-text]").forEach((element) => {
+          element.textContent = text[element.dataset.text];
+        });
+        document.querySelectorAll("[data-label]").forEach((element) => {
+          element.setAttribute("aria-label", text[element.dataset.label]);
+        });
+        document.querySelectorAll("[data-language]").forEach((link) => {
+          if (link.dataset.language === language) {
+            link.setAttribute("aria-current", "true");
+          }
+        });
+        document.querySelector("#translation-note").hidden = language !== "zh";
+        emptyState.textContent = text.empty;
+        refreshTime.textContent = text.updated + text.notYet;
+      }
 
       function formatRefreshTime(value) {
         if (!value) {
-          return "Last updated: not yet.";
+          return text.updated + text.notYet;
         }
         const date = new Date(value);
         if (Number.isNaN(date.valueOf())) {
-          return "Last updated: unavailable.";
+          return text.updated + text.updateUnavailable;
         }
-        return `Last updated: ${new Intl.DateTimeFormat("en-US", {
+        if (language === "zh") {
+          return `${text.updated}${new Intl.DateTimeFormat("zh-CN", {
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+            hour: "numeric",
+            minute: "2-digit",
+            hourCycle: "h23",
+            timeZone: "America/New_York",
+          }).format(date)}（美东时间）`;
+        }
+        return text.updated + new Intl.DateTimeFormat("en-US", {
           month: "short",
           day: "numeric",
           year: "numeric",
@@ -69,7 +162,7 @@
           minute: "2-digit",
           timeZone: "America/New_York",
           timeZoneName: "short",
-        }).format(date)}`;
+        }).format(date);
       }
 
       function addSignal(signal) {
@@ -106,28 +199,52 @@
         return true;
       }
 
+      async function fetchBrief(path) {
+        const response = await fetch(path, { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error("Market Watch data request failed.");
+        }
+        return response.json();
+      }
+
+      // The English brief is the source of truth. The Chinese brief is shown only when it
+      // was translated from that same brief (same generated_at); otherwise show English.
+      async function loadBrief() {
+        const english = fetchBrief(BRIEF_PATHS.en);
+        if (language !== "zh") {
+          return { brief: await english, englishFallback: false };
+        }
+        const chinese = fetchBrief(BRIEF_PATHS.zh).catch(() => null);
+        const [englishBrief, chineseBrief] = await Promise.all([english, chinese]);
+        if (chineseBrief && chineseBrief.generated_at === englishBrief.generated_at) {
+          return { brief: chineseBrief, englishFallback: false };
+        }
+        return { brief: englishBrief, englishFallback: true };
+      }
+
       async function loadMarketWatch() {
         try {
-          const response = await fetch("data/market-watch.json", { cache: "no-store" });
-          if (!response.ok) {
-            throw new Error("Market Watch data request failed.");
-          }
-          const brief = await response.json();
+          const { brief, englishFallback } = await loadBrief();
           const signals = Array.isArray(brief.signals) ? brief.signals.slice(0, 5) : [];
           const renderedCount = signals.reduce(
             (count, signal) => count + Number(addSignal(signal)),
             0,
           );
+          if (englishFallback && renderedCount > 0) {
+            signalList.lang = "en";
+            languageNote.hidden = false;
+          }
           signalList.hidden = renderedCount === 0;
           emptyState.hidden = renderedCount > 0;
           refreshTime.textContent = formatRefreshTime(brief.generated_at);
         } catch {
-          emptyState.textContent = "Market signals are unavailable right now.";
+          emptyState.textContent = text.unavailable;
           signalList.hidden = true;
-          refreshTime.textContent = "Last updated: unavailable.";
+          refreshTime.textContent = text.updated + text.updateUnavailable;
         }
       }
 
+      applyLanguage();
       loadMarketWatch();
     </script>
   </body>
