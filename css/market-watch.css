@@ -391,7 +391,17 @@ h1 {
   }
 
   .masthead::before {
+    /* Start beside the eyebrow, below the 18px links row and 10px gap. */
+    top: 32px;
     width: 6px;
+  }
+
+  /* On phones the links get their own row above the eyebrow, so the eyebrow stays right
+     above the title and English and Chinese line up the same way. */
+  .masthead-links {
+    order: -1;
+    width: 100%;
+    justify-content: flex-end;
   }
 
   .results {
