@@ -20,10 +20,14 @@ One brief, published wherever you read:
 | Channel | URL |
 | --- | --- |
 | Web | https://abstraktre.com/market-watch/ |
+| Web (Simplified Chinese) | https://abstraktre.com/market-watch/?lang=zh |
 | RSS | https://abstraktre.com/market-watch/feed.xml |
 | Markdown (today) | https://abstraktre.com/market-watch/today.md |
 | JSON (today) | https://abstraktre.com/market-watch/data/market-watch.json |
+| JSON (today, Simplified Chinese) | https://abstraktre.com/market-watch/data/market-watch.zh.json |
 | Email | [Sign up](https://abstraktre.com/market-watch/subscribe.html) |
+
+The web page has an `EN / 中文` toggle. The Chinese brief is an AI translation of the English one; when today's translation is not ready, the page shows English. RSS, markdown and email are English only.
 
 Add the live site URL or `feed.xml` to a feed reader to subscribe. Each RSS item is one signal. To get the brief by email instead, use the **Newsletter** link at the top of the page.
 
