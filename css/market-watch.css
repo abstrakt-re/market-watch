@@ -390,9 +390,13 @@ h1 {
     padding-left: 22px;
   }
 
+  .masthead-top {
+    row-gap: 16px;
+  }
+
   .masthead::before {
-    /* Start beside the eyebrow, below the 18px links row and 10px gap. */
-    top: 32px;
+    /* Start beside the eyebrow, below the 18px links row and 16px gap. */
+    top: 38px;
     width: 6px;
   }
 
