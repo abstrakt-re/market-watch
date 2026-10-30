@@ -74,12 +74,14 @@
           notYet: "not yet.",
           updateUnavailable: "unavailable.",
         },
+        // Brackets here are half-width "()". Full-width "（）" carry a blank half that Chrome
+        // trims and Safari doesn't, so spacing around them differed between browsers.
         zh: {
           eyebrow: "每日市场信号",
           newsletter: "英文邮件订阅",
-          rss: "RSS（英文）",
+          rss: "RSS (英文)",
           credit: "Market Watch 由 Abstrakt Re 出品",
-          contact: "（联系：contact AT abstraktre.com）。",
+          contact: "(联系：contact AT abstraktre.com)。",
           results: "今日市场信号",
           empty: "暂无消息。",
           unavailable: "暂时无法加载。",
@@ -151,7 +153,7 @@
             minute: "2-digit",
             hourCycle: "h23",
             timeZone: "America/New_York",
-          }).format(date)}（美东时间）`;
+          }).format(date)} (美东时间)`;
         }
         return text.updated + new Intl.DateTimeFormat("en-US", {
           month: "short",
