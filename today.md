@@ -1,18 +1,18 @@
-# Market Watch — 2026-10-30
+# Market Watch — 2026-11-02
 
-Updated: 2026-10-30T11:43:59.410554-04:00
+Updated: 2026-11-02T07:32:25.295155-05:00
 
-1. **Binance halts transactions and freezes $2.54B in assets amid multibillion-dollar hack probe**  
-   Binance suspended all deposits, withdrawals, and transactions as it investigates a suspected hack in which analysts say hackers stole at least $3 billion and possibly up to $5.6 billion. Tether, Circle, and other issuers froze more than $2.54 billion in assets tied to the security incident, while Binance and Changpeng Zhao stated that user funds remain safe.
+1. **Deepening AI selloff pushes Nasdaq to worst month in over a year as Intel suffers historic drop**  
+   Following initial post-earnings slides in Alphabet, Amazon, and Intel, a deepening AI and technology selloff pushed the Nasdaq down 2.9% to its first three-week losing streak since March and its worst month in over a year. Intel suffered its worst daily decline since the 1970s, wiping about $12 billion off the U.S. government's stake, while the broader equity drop drove further gains in U.S. Treasuries even as Federal Reserve officials signaled support for rate hikes.
 
-2. **Amazon misses Q3 estimates with $42.4B negative free cash flow despite 39% AWS growth**  
-   Amazon missed third-quarter earnings and revenue expectations as negative free cash flow ballooned to $42.4 billion and the company kept its 2026 capital expenditure guidance unchanged, even as AWS revenue grew 39% above consensus after signing deals with Meta and OpenAI. The disappointing results deepened a global technology stock selloff, weighing on Asian semiconductor shares and driving investors into haven assets such as U.S. Treasuries.
+2. **Binance resumes withdrawals and records $3.64B in net outflows after covering 95% of $6.3B hack**  
+   Following its initial transaction halt and asset freezes, Binance's 20-minute security breach is now confirmed at a record $6.3 billion, surpassing initial estimates of up to $5.6 billion and exceeding the exchange's dedicated insurance reserves. Binance stated it replaced roughly 95% of the stolen assets—up from 90% earlier in the weekend—and resumed customer withdrawals, recording $3.64 billion in net outflows representing 2.1% of its total assets.
 
-3. **ECB holds rates at 2.5% as President Christine Lagarde announces early resignation**  
-   The European Central Bank kept its key interest rate unchanged at 2.5%, sending Eurozone bond yields lower, as President Christine Lagarde announced she will step down early on February 7 next year. Her departure comes amid heightened concern over energy costs and France's fiscal and bond market strains.
+3. **Oil drops as Trump reportedly gives Iran diplomacy more time before potential strikes**  
+   Building on Vice President Vance's recent outreach to Tehran, oil prices declined following a report that President Donald Trump wants to give diplomatic efforts with Iran more time before any move to resume U.S. military strikes. The pullback comes even as Middle East diplomats warn that a renewed conflict between the U.S. and Iran would be more damaging than previous rounds of fighting.
 
-4. **U.S. Q3 GDP grows 3.4% as September PCE inflation accelerates**  
-   U.S. third-quarter GDP expanded at a better-than-expected 3.4% pace while the September personal consumption expenditures price index was projected to rise 0.5% on the month for a 3.7% annual rate. Despite the indicators pointing to robust growth and accelerating inflation following the Federal Reserve's recent rate pause, U.S. Treasury yields fell.
+4. **OpenAI pares fundraising goal to up to $20B in latest round**  
+   OpenAI pared back its fundraising target and is now seeking up to $20 billion in its latest in-progress funding round, according to a person familiar with the deal.
 
-5. **Alphabet suffers worst day on record, erasing $500B in value on search weakness and cash burn**  
-   Following its initial post-earnings slide, Alphabet shares plunged nearly 13% in regular trading to suffer their worst day on record, erasing $500 billion in market value and dragging U.S. stocks lower. Investors reacted to weaker-than-expected core search revenue—seen as a sign of AI pressure on search—alongside larger-than-expected negative free cash flow as third-quarter AI spending topped $50 billion.
+5. **Ryanair launches cost drive and warns of 20% fare hikes on $2.2B fuel bill surge**  
+   Ryanair initiated a cost-cutting drive to help offset a €2 billion ($2.2 billion) jump in fuel charges next year driven by the Middle East conflict. CEO Michael O'Leary warned that rising fuel costs could push European airfares up by as much as 20% in 2027, while the conflict is also weighing on consumer willingness to book flights.
