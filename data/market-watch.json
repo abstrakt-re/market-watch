@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-02T07:32:25.295155-05:00",
+  "generated_at": "2026-11-03T07:21:40.792848-05:00",
   "signals": [
     {
       "rank": 1,
-      "thesis": "Following initial post-earnings slides in Alphabet, Amazon, and Intel, a deepening AI and technology selloff pushed the Nasdaq down 2.9% to its first three-week losing streak since March and its worst month in over a year. Intel suffered its worst daily decline since the 1970s, wiping about $12 billion off the U.S. government's stake, while the broader equity drop drove further gains in U.S. Treasuries even as Federal Reserve officials signaled support for rate hikes.",
-      "title": "Deepening AI selloff pushes Nasdaq to worst month in over a year as Intel suffers historic drop"
+      "thesis": "Building on the multi-week technology selloff, U.S. tech stocks and the Nasdaq officially entered correction territory on Monday amid AI and U.S. midterm election risks. Equities were set for a lower open on Tuesday after Apple and Palantir shares slid in premarket trading following post-bell earnings reports, even as Palantir reported that its U.S. commercial revenue jumped 148% to $984 million to surpass its $953 million in government revenue for the first time.",
+      "title": "Nasdaq enters correction territory as Apple and Palantir slide after earnings"
     },
     {
       "rank": 2,
-      "thesis": "Following its initial transaction halt and asset freezes, Binance's 20-minute security breach is now confirmed at a record $6.3 billion, surpassing initial estimates of up to $5.6 billion and exceeding the exchange's dedicated insurance reserves. Binance stated it replaced roughly 95% of the stolen assets—up from 90% earlier in the weekend—and resumed customer withdrawals, recording $3.64 billion in net outflows representing 2.1% of its total assets.",
-      "title": "Binance resumes withdrawals and records $3.64B in net outflows after covering 95% of $6.3B hack"
+      "thesis": "Following earlier reports that Washington would give diplomacy more time, crude oil prices plunged more than 7% on Monday on hopes for U.S.-Iran peace talks ahead of the U.S. midterm elections. However, the U.S. military carried out strikes on Iran's Qeshm Island on Monday even as Vice President Vance expressed hope for a negotiated settlement with Tehran and Strait of Hormuz talks kept oil markets on edge.",
+      "title": "U.S. strikes Iran's Qeshm Island after crude oil plunges over 7% on peace talk hopes"
     },
     {
       "rank": 3,
-      "thesis": "Building on Vice President Vance's recent outreach to Tehran, oil prices declined following a report that President Donald Trump wants to give diplomatic efforts with Iran more time before any move to resume U.S. military strikes. The pullback comes even as Middle East diplomats warn that a renewed conflict between the U.S. and Iran would be more damaging than previous rounds of fighting.",
-      "title": "Oil drops as Trump reportedly gives Iran diplomacy more time before potential strikes"
+      "thesis": "The People's Bank of China lifted its foreign-exchange reserve ratio, requiring banks to hold more foreign currencies in reserve to cool the yuan's rally. The intervention snapped the onshore yuan's longest winning streak in three decades.",
+      "title": "PBOC raises FX reserve ratio to halt onshore yuan's 30-year record winning streak"
     },
     {
       "rank": 4,
-      "thesis": "OpenAI pared back its fundraising target and is now seeking up to $20 billion in its latest in-progress funding round, according to a person familiar with the deal.",
-      "title": "OpenAI pares fundraising goal to up to $20B in latest round"
+      "thesis": "The Reserve Bank of Australia raised interest rates to an 18-year high to combat inflation, in line with economist expectations. The decision marks the central bank's fifth rate increase this year.",
+      "title": "Reserve Bank of Australia hikes interest rates to 18-year high"
     },
     {
       "rank": 5,
-      "thesis": "Ryanair initiated a cost-cutting drive to help offset a €2 billion ($2.2 billion) jump in fuel charges next year driven by the Middle East conflict. CEO Michael O'Leary warned that rising fuel costs could push European airfares up by as much as 20% in 2027, while the conflict is also weighing on consumer willingness to book flights.",
-      "title": "Ryanair launches cost drive and warns of 20% fare hikes on $2.2B fuel bill surge"
+      "thesis": "Following its initial S-1 prospectus last week that only covered financials through the first half of the year, Anthropic filed a revised S-1 disclosing $17 billion in third-quarter revenue alongside surging costs and $895.4 billion in purchase commitments. Meanwhile, institutional investors planning to buy into the IPO are pushing for a more cautious valuation closer to $1.5 trillion following the broader selloff in technology stocks.",
+      "title": "Anthropic discloses $17B Q3 revenue and $895.4B in commitments as IPO investors push for $1.5T valuation"
     }
   ]
 }
