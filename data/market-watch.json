@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-03T07:21:40.792848-05:00",
+  "generated_at": "2026-11-04T07:30:06.512561-05:00",
   "signals": [
     {
       "rank": 1,
-      "thesis": "Building on the multi-week technology selloff, U.S. tech stocks and the Nasdaq officially entered correction territory on Monday amid AI and U.S. midterm election risks. Equities were set for a lower open on Tuesday after Apple and Palantir shares slid in premarket trading following post-bell earnings reports, even as Palantir reported that its U.S. commercial revenue jumped 148% to $984 million to surpass its $953 million in government revenue for the first time.",
-      "title": "Nasdaq enters correction territory as Apple and Palantir slide after earnings"
+      "thesis": "Democrats won control of both chambers of Congress in a sweeping U.S. midterm election victory driven by voter frustration over inflation and concerns in exit polls regarding government corruption and billionaire influence. The outcome sent the two-year Treasury yield to a two-month low as Treasuries strengthened and the U.S. dollar fell against currencies including the British pound, while gold surged above $4,000 an ounce alongside broader gains in silver and precious metals. After an initial drop, S&P 500 futures turned positive as traders viewed the result and potential AI regulatory scrutiny as largely priced in, while European equities rallied, global renewable stocks jumped on expectations of more favorable industry policy, and Japanese stocks trimmed declines.",
+      "title": "Democrats sweep U.S. Congress in midterms, sending gold above $4,000 and lifting bonds and renewables"
     },
     {
       "rank": 2,
-      "thesis": "Following earlier reports that Washington would give diplomacy more time, crude oil prices plunged more than 7% on Monday on hopes for U.S.-Iran peace talks ahead of the U.S. midterm elections. However, the U.S. military carried out strikes on Iran's Qeshm Island on Monday even as Vice President Vance expressed hope for a negotiated settlement with Tehran and Strait of Hormuz talks kept oil markets on edge.",
-      "title": "U.S. strikes Iran's Qeshm Island after crude oil plunges over 7% on peace talk hopes"
+      "thesis": "China escalated its defense of the domestic stock market as state-backed funds increased equity purchases and more Chinese companies stepped up share buyback plans. The intervention follows recent meetings between regulators, banks, and brokerages to discuss liquidity support measures amid a softening forward earnings outlook and credit market strain.",
+      "title": "China escalates stock market defense with state fund purchases and corporate buybacks"
     },
     {
       "rank": 3,
-      "thesis": "The People's Bank of China lifted its foreign-exchange reserve ratio, requiring banks to hold more foreign currencies in reserve to cool the yuan's rally. The intervention snapped the onshore yuan's longest winning streak in three decades.",
-      "title": "PBOC raises FX reserve ratio to halt onshore yuan's 30-year record winning streak"
+      "thesis": "Meta is seeking to raise between $20 billion and $25 billion in a bond sale as its debt costs rise and the company ramps up spending on infrastructure and AI models. The offering follows S&P Global Ratings' recent downward revision of Meta's outlook over free cash flow and capital expenditure concerns, and comes as major technology companies return to the U.S. bond market after a nearly three-month pause.",
+      "title": "Meta targets up to $25B bond sale to fund AI expansion as debt costs rise"
     },
     {
       "rank": 4,
-      "thesis": "The Reserve Bank of Australia raised interest rates to an 18-year high to combat inflation, in line with economist expectations. The decision marks the central bank's fifth rate increase this year.",
-      "title": "Reserve Bank of Australia hikes interest rates to 18-year high"
+      "thesis": "AMD reported better-than-expected third-quarter results as booming AI chip sales nearly doubled its data center revenue, sending its shares up 8%. The beat provides a counterweight to rising investor skepticism over AI spending that recently punished peer chipmakers.",
+      "title": "AMD shares jump 8% as Q3 data center revenue nearly doubles on AI chip demand"
     },
     {
       "rank": 5,
-      "thesis": "Following its initial S-1 prospectus last week that only covered financials through the first half of the year, Anthropic filed a revised S-1 disclosing $17 billion in third-quarter revenue alongside surging costs and $895.4 billion in purchase commitments. Meanwhile, institutional investors planning to buy into the IPO are pushing for a more cautious valuation closer to $1.5 trillion following the broader selloff in technology stocks.",
-      "title": "Anthropic discloses $17B Q3 revenue and $895.4B in commitments as IPO investors push for $1.5T valuation"
+      "thesis": "Following the initial announcement of its AI connectivity deal with Lumentum Holdings, Marvell's agreement to acquire Lumentum was disclosed at an enterprise value of $115 billion. The valuation makes the transaction one of the largest technology deals in history as Marvell seeks to capitalize on data center spending.",
+      "title": "Marvell's acquisition of Lumentum valued at $115B enterprise value"
     }
   ]
 }
