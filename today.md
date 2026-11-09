@@ -1,18 +1,18 @@
-# Market Watch — 2026-11-06
+# Market Watch — 2026-11-09
 
-Updated: 2026-11-06T07:21:59.499805-05:00
+Updated: 2026-11-09T07:17:53.667305-05:00
 
-1. **Post-midterm AI rout erases $3T from U.S. stocks, pushes Nasdaq into correction, and batters Asian chipmakers**  
-   Reversing Wednesday's post-election equity rally, U.S. stocks suffered a $3 trillion rout on Thursday as fears that the Democratic congressional sweep will slow the AI buildout sent the Nasdaq plunging 5% into correction territory—its worst day since April 2025—and the Dow down more than 1,800 points. The selloff in chipmakers, neoclouds, and big tech drove haven demand that sent U.S. Treasuries soaring, and spilled over into Friday trading in Asia, where SK Hynix, Samsung, SoftBank, and TSMC tumbled and tech-heavy indexes neared bear-market territory before Nasdaq futures began to rebound.
+1. **Nvidia shares slide 5% as board probes CEO Jensen Huang's relationship with alleged Chinese spy**  
+   Nvidia shares fell roughly 5% in premarket trading after the company's board launched an independent investigation into whether CEO Jensen Huang was targeted by a foreign intelligence effort. The probe follows Huang's admission to an affair with an executive suspected of working for Chinese intelligence and growing bipartisan demands in Congress for him to testify.
 
-2. **Bank of England hikes interest rates to 4% to tackle surging inflation**  
-   The Bank of England raised interest rates by 25 basis points to 4% to combat surging inflation, marking its first rate hike in more than three years.
+2. **Broadening U.S. October job gains raise odds of December Fed rate hike**  
+   A stronger-than-expected U.S. October employment report showed hiring broadening across white-collar, manufacturing, and transportation sectors, strengthening the case for another Federal Reserve interest-rate hike in December. The data counters earlier bond market positioning that had anticipated fading odds of additional Fed rate increases.
 
-3. **Tesla and SpaceX losses top $420B as SpaceX default risk hits record and Texas governor-elect calls for AI data-center moratorium**  
-   Expanding on the initial $120 billion post-election drop in Elon Musk-linked equities and weakness in data-center plays, combined market-cap losses for Tesla and SpaceX exceeded $420 billion while SpaceX default risk hit a record high alongside credit losses at CoreWeave amid fears of tighter AI regulation. In the high-yield bond market, debt tied to data-center developers weakened after newly elected Texas Democratic Governor Gina Hinojosa called for an immediate moratorium on AI data-center development.
+3. **China October wholesale inflation hits four-year high of 5.7% as consumer measure slows**  
+   China's Producer Price Index rose 5.7% in October, surpassing the 5.3% Reuters consensus estimate and marking the highest wholesale inflation reading in more than four years even as consumer inflation slowed.
 
-4. **Monte dei Paschi posts higher Q3 profit as Intesa Sanpaolo takeover bid looms**  
-   Banca Monte dei Paschi di Siena reported higher third-quarter net profit on increased revenue as it weighs a takeover offer from Intesa Sanpaolo. The results follow shareholders' recent rejection of a nearly $40 billion defense plan proposed by Monte dei Paschi's CEO to fend off Intesa's bid.
+4. **U.S. conducts minor strikes on Iran and Houthis hit Riyadh's Aramco Tower amid nuclear talks**  
+   Following earlier oil market declines on hopes for Middle East negotiations, President Donald Trump confirmed the U.S. carried out minor strikes on Iran as two missiles hit Qeshm Island near the Strait of Hormuz, before stating that renewed U.S. strikes are highly unlikely if talks over Iran's nuclear program and the strait progress. Separately, a Houthi attack damaged the Saudi Aramco Tower in Riyadh's financial district, about a month after deadly strikes hit the capital's airport.
 
-5. **Man Group shares fall after judge rules firm liable for $155M in Kuwaiti pension bribery case**  
-   Shares of Man Group Plc fell after a judge ruled the hedge fund manager could have to pay roughly $155 million for its role in a corruption scheme that siphoned $1 billion from a Kuwaiti state-run pension fund.
+5. **Berkshire Hathaway posts record $9.6B Q3 share buybacks as net income drops 28%**  
+   Berkshire Hathaway spent a record $9.6 billion repurchasing its own shares in the third quarter, more than doubling its buyback pace as CEO Greg Abel deployed the conglomerate's cash reserves. However, third-quarter net income fell 28% due to smaller investment gains and weaker insurance underwriting profits.
