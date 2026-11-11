@@ -1,18 +1,18 @@
-# Market Watch — 2026-11-10
+# Market Watch — 2026-11-11
 
-Updated: 2026-11-10T07:16:12.949187-05:00
+Updated: 2026-11-11T07:09:43.047927-05:00
 
-1. **Fed's Waller backs December rate hike and opens door to 50 bps move, pausing stock rebound**  
-   Building on the strong October employment report that raised the odds of a December Federal Reserve rate hike, Fed Governor Christopher Waller stated he supports a rate increase next month and would back a half-percentage-point hike if Tuesday's inflation data shows continued acceleration. His remarks halted a sharp Monday rebound in U.S. equities that had sent the Dow up more than 1,100 points and the Nasdaq higher following last week's AI-led rout.
+1. **Hotter-than-expected 0.4% October CPI sparks 19-month spike in short-term yields and fuels December Fed hike bets**  
+   Building on Federal Reserve Governor Christopher Waller's earlier warning that he would back a December rate increase—and potentially a 50-basis-point move if inflation accelerated—the U.S. Consumer Price Index rose a hotter-than-expected 0.4% in October against a 0.3% consensus forecast. The print and accompanying hawkish Fed commentary triggered the sharpest surge in short-term U.S. Treasury yields in 19 months, pushed the 10-year Treasury yield back to 5%, lifted Asian bond yields, and sent the Nasdaq down 1%.
 
-2. **Nvidia shares edge higher after decoupling from broader market rally amid CEO espionage probe**  
-   Following Monday's slide in Nvidia shares after its board opened an investigation into CEO Jensen Huang's affair with an alleged Chinese intelligence asset—which saw the chipmaker sink even as the S&P 500, Dow, and Nasdaq rallied—the stock edged higher on Tuesday. Investors are weighing ongoing congressional scrutiny, potential succession risks, and the broader U.S.-China tech rivalry against bullish options positioning.
+2. **Nvidia hires Wachtell Lipton to lead CEO espionage probe as stock slides for a second day**  
+   Following earlier reports that Nvidia shares had edged higher as the board launched an investigation into CEO Jensen Huang's affair with an alleged Chinese intelligence asset, the stock reversed course to slide for a second consecutive day. Nvidia has now hired law firm Wachtell Lipton to lead the probe into Huang's relationship with Alice Huang, a top executive at data center company Megaspeed whom U.S. officials allege is a Chinese spy.
 
-3. **Trump says Iran war will end 'fairly soon' and downplays new strikes**  
-   Following recent minor U.S. strikes near the Strait of Hormuz and conditional warnings linked to nuclear talks, President Donald Trump stated that the Iran war will end "fairly soon" and downplayed the likelihood of further strikes, asserting that Iran is militarily finished due to the destruction of its navy and surging inflation.
+3. **CoreWeave beats Q3 revenue and raises guidance, sending stock up 13% and lifting AI tech futures**  
+   After facing intense debt-market scrutiny and bond yields above 16% amid fears of a data center slowdown, AI cloud provider CoreWeave beat third-quarter revenue expectations and raised its full-year outlook. The results sent CoreWeave shares up 13% and lifted broader U.S. tech stock futures as investors reassessed the durability of AI infrastructure demand.
 
-4. **SoftBank swings to $7B fiscal Q2 loss on U.S. data center hit and Intel decline**  
-   SoftBank Group swung to a $7 billion loss in its fiscal second quarter ended September 30, driven by losses tied to U.S. data centers and a decline in Intel shares.
+4. **Anthropic sets $70–$78 IPO price range for $1.3T–$1.4T valuation Ahead of November 19 debut**  
+   After earlier reports that Anthropic was preparing to push ahead with its listing below an initially discussed $1.5 trillion valuation, the AI lab set an IPO price range of $70 to $78 per share, targeting a valuation between $1.3 trillion and $1.4 trillion. The offering is scheduled to price on November 18 and begin trading on November 19, with seven company insiders each set to sell roughly $250 million in stock—valuing the founders' stakes at $18 billion apiece—while retaining total voting control.
 
-5. **FDA warns of vision loss risk linked to GLP-1 drugs like Wegovy and Zepbound**  
-   The U.S. Food and Drug Administration warned of evidence linking popular GLP-1 weight-management and diabetes drugs, including Wegovy and Zepbound, to a potentially increased risk of a rare eye condition causing vision loss. The regulatory warning follows Novo Nordisk's recent quarterly earnings beat and guidance hike driven by strong Wegovy pill sales.
+5. **Unilever and McCormick's $44.8B deal faces in-depth U.K. antitrust investigation**  
+   The U.K. competition regulator warned that Unilever Plc and McCormick & Co.'s $44.8 billion deal faces an in-depth antitrust investigation unless the companies offer remedies to resolve competition concerns.
