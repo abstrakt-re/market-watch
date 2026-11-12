@@ -1,18 +1,18 @@
-# Market Watch — 2026-11-11
+# Market Watch — 2026-11-12
 
-Updated: 2026-11-11T07:09:43.047927-05:00
+Updated: 2026-11-12T07:35:14.972645-05:00
 
-1. **Hotter-than-expected 0.4% October CPI sparks 19-month spike in short-term yields and fuels December Fed hike bets**  
-   Building on Federal Reserve Governor Christopher Waller's earlier warning that he would back a December rate increase—and potentially a 50-basis-point move if inflation accelerated—the U.S. Consumer Price Index rose a hotter-than-expected 0.4% in October against a 0.3% consensus forecast. The print and accompanying hawkish Fed commentary triggered the sharpest surge in short-term U.S. Treasury yields in 19 months, pushed the 10-year Treasury yield back to 5%, lifted Asian bond yields, and sent the Nasdaq down 1%.
+1. **Nvidia board prepares to oust CEO Jensen Huang, sending stock down up to 8.1% and dragging Nasdaq futures lower**  
+   Escalating from the earlier board probe led by Wachtell Lipton into CEO Jensen Huang's affair with alleged Chinese spy and Megaspeed executive Alice Huang, Nvidia's board met Wednesday and is reportedly preparing to oust Huang while working with an outside firm to identify replacements following reports of multiple extramarital affairs, including with a top Nvidia executive. The intensifying crisis—accompanied by analyst downgrades, scrutiny over Nvidia halting Singapore revenue disclosures amid rising attention on Megaspeed, and congressional calls for Huang's resignation and tighter China AI chip export controls—sent Nvidia shares down as much as 8.1% in premarket trading and 6% in regular trading. The turmoil halted a tech-driven rally, pulling Nasdaq futures down 1% and weighing on Asian equities.
 
-2. **Nvidia hires Wachtell Lipton to lead CEO espionage probe as stock slides for a second day**  
-   Following earlier reports that Nvidia shares had edged higher as the board launched an investigation into CEO Jensen Huang's affair with an alleged Chinese intelligence asset, the stock reversed course to slide for a second consecutive day. Nvidia has now hired law firm Wachtell Lipton to lead the probe into Huang's relationship with Alice Huang, a top executive at data center company Megaspeed whom U.S. officials allege is a Chinese spy.
+2. **Gold falls below $4,000 as hot October CPI and hawkish Fed remarks reinforce December rate-hike bets**  
+   Expanding the market fallout from the hotter-than-expected 0.4% October U.S. CPI print and hawkish Federal Reserve commentary that previously sparked a 19-month surge in short-term Treasury yields, gold fell below $4,000 per ounce. The precious metal extended earlier losses as traders priced in rising expectations for a December Fed rate increase.
 
-3. **CoreWeave beats Q3 revenue and raises guidance, sending stock up 13% and lifting AI tech futures**  
-   After facing intense debt-market scrutiny and bond yields above 16% amid fears of a data center slowdown, AI cloud provider CoreWeave beat third-quarter revenue expectations and raised its full-year outlook. The results sent CoreWeave shares up 13% and lifted broader U.S. tech stock futures as investors reassessed the durability of AI infrastructure demand.
+3. **MSCI drops Bitcoin holder Strategy from global indexes after reclassifying firms without substantial operating assets**  
+   MSCI ruled that companies lacking substantial operating assets now count as nonoperating entities, making them ineligible for its global indexes. As a result, Strategy, the world's largest corporate Bitcoin holder, will be removed from MSCI's benchmarks.
 
-4. **Anthropic sets $70–$78 IPO price range for $1.3T–$1.4T valuation Ahead of November 19 debut**  
-   After earlier reports that Anthropic was preparing to push ahead with its listing below an initially discussed $1.5 trillion valuation, the AI lab set an IPO price range of $70 to $78 per share, targeting a valuation between $1.3 trillion and $1.4 trillion. The offering is scheduled to price on November 18 and begin trading on November 19, with seven company insiders each set to sell roughly $250 million in stock—valuing the founders' stakes at $18 billion apiece—while retaining total voting control.
+4. **Indonesian rupiah falls to record low amid MSCI index removal concerns and oil risks**  
+   Following Indonesia's $3 billion dollar-bond sale last week after MSCI warned it may remove the nation's equities from its global indexes, the Indonesian rupiah dropped to an all-time low against the U.S. dollar. The currency slide, driven by ongoing MSCI index concerns and oil risks, prompted authorities to intervene again to contain a broader selloff across Indonesian stocks and bonds.
 
-5. **Unilever and McCormick's $44.8B deal faces in-depth U.K. antitrust investigation**  
-   The U.K. competition regulator warned that Unilever Plc and McCormick & Co.'s $44.8 billion deal faces an in-depth antitrust investigation unless the companies offer remedies to resolve competition concerns.
+5. **London Metal Exchange aluminum faces worst supply squeeze in decades as two traders control remaining stock**  
+   Reversing a dip earlier in the week tied to reports of expanding Chinese inventories, aluminum buyers on the London Metal Exchange now face the market's most severe supply squeeze in decades. Inventories backing LME contracts have plunged, leaving much of the remaining stock under the control of just two traders.
