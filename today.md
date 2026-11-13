@@ -1,18 +1,18 @@
-# Market Watch — 2026-11-12
+# Market Watch — 2026-11-13
 
-Updated: 2026-11-12T07:35:14.972645-05:00
+Updated: 2026-11-13T07:18:50.805950-05:00
 
-1. **Nvidia board prepares to oust CEO Jensen Huang, sending stock down up to 8.1% and dragging Nasdaq futures lower**  
-   Escalating from the earlier board probe led by Wachtell Lipton into CEO Jensen Huang's affair with alleged Chinese spy and Megaspeed executive Alice Huang, Nvidia's board met Wednesday and is reportedly preparing to oust Huang while working with an outside firm to identify replacements following reports of multiple extramarital affairs, including with a top Nvidia executive. The intensifying crisis—accompanied by analyst downgrades, scrutiny over Nvidia halting Singapore revenue disclosures amid rising attention on Megaspeed, and congressional calls for Huang's resignation and tighter China AI chip export controls—sent Nvidia shares down as much as 8.1% in premarket trading and 6% in regular trading. The turmoil halted a tech-driven rally, pulling Nasdaq futures down 1% and weighing on Asian equities.
+1. **Nvidia CEO Jensen Huang resigns amid affair and espionage scandal, wiping $1.6T from market value and sparking chip rotation**  
+   Following reports that Nvidia's board was preparing to oust him, CEO Jensen Huang resigned on Thursday and Colette Kress was named interim CEO amid deepening scrutiny over two extramarital affairs—one with a direct report and another with Megaspeed executive and alleged Chinese intelligence asset Alice Huang, who also held stakes in computing providers for rival Huawei. Nvidia shares fell another 5% on Thursday—putting the stock on track for its longest weekly losing streak since 2012 with a $1.6 trillion market-value loss before inching higher Friday—while prompting a rotation into competitors AMD and Broadcom and casting a shadow over Wall Street's $500 billion AI financing bet.
 
-2. **Gold falls below $4,000 as hot October CPI and hawkish Fed remarks reinforce December rate-hike bets**  
-   Expanding the market fallout from the hotter-than-expected 0.4% October U.S. CPI print and hawkish Federal Reserve commentary that previously sparked a 19-month surge in short-term Treasury yields, gold fell below $4,000 per ounce. The precious metal extended earlier losses as traders priced in rising expectations for a December Fed rate increase.
+2. **IEA projects global oil supply surplus on surging Iraq and UAE exports as Trump dismisses need for Iran deal**  
+   The International Energy Agency projected that global oil markets will swing to a supply surplus for the first time since the Iran war began, driven by recovering Persian Gulf exports as Iraq's October crude output jumped to its highest level since 2019 and UAE production held near recent highs despite shipping disruptions. Meanwhile, President Donald Trump declared the U.S. does not need a deal with Iran, dimming prospects for a diplomatic breakthrough and nudging oil prices higher after earlier de-escalation hopes had pushed Brent crude below $90 a barrel.
 
-3. **MSCI drops Bitcoin holder Strategy from global indexes after reclassifying firms without substantial operating assets**  
-   MSCI ruled that companies lacking substantial operating assets now count as nonoperating entities, making them ineligible for its global indexes. As a result, Strategy, the world's largest corporate Bitcoin holder, will be removed from MSCI's benchmarks.
+3. **Anthropic IPO is roughly 6x oversubscribed as offering targets $64.4B public raise and $26B private placement**  
+   Following Anthropic's announcement of a $70 to $78 IPO price range targeting a valuation up to $1.4 trillion, the offering is now reportedly about six times oversubscribed. The AI lab and its co-founders are seeking to raise $64.4 billion in the public listing alongside $26 billion in a private placement, making it larger than SpaceX's IPO and potentially the biggest initial public offering in history.
 
-4. **Indonesian rupiah falls to record low amid MSCI index removal concerns and oil risks**  
-   Following Indonesia's $3 billion dollar-bond sale last week after MSCI warned it may remove the nation's equities from its global indexes, the Indonesian rupiah dropped to an all-time low against the U.S. dollar. The currency slide, driven by ongoing MSCI index concerns and oil risks, prompted authorities to intervene again to contain a broader selloff across Indonesian stocks and bonds.
+4. **China's October credit expansion misses expectations as loans contract for a third time this year**  
+   China's credit growth fell short of expectations in October, with loans contracting for the third time this year. The data shows that increased policy support from Beijing is struggling to offset persistently weak domestic borrowing demand, contrasting with the country's record cross-border yuan flows and a goods trade surplus exceeding $1 trillion.
 
-5. **London Metal Exchange aluminum faces worst supply squeeze in decades as two traders control remaining stock**  
-   Reversing a dip earlier in the week tied to reports of expanding Chinese inventories, aluminum buyers on the London Metal Exchange now face the market's most severe supply squeeze in decades. Inventories backing LME contracts have plunged, leaving much of the remaining stock under the control of just two traders.
+5. **Microsoft Outlook and 365 outage extends past 12 hours alongside AWS and Google disruptions**  
+   A major Microsoft cloud and Azure disruption knocked Outlook and Microsoft 365 offline for more than 12 hours starting Thursday. Users of Amazon Web Services and Google also reported service outages on Thursday.
