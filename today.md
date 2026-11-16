@@ -1,18 +1,18 @@
-# Market Watch — 2026-11-13
+# Market Watch — 2026-11-16
 
-Updated: 2026-11-13T07:18:50.805950-05:00
+Updated: 2026-11-16T08:02:44.033166-05:00
 
-1. **Nvidia CEO Jensen Huang resigns amid affair and espionage scandal, wiping $1.6T from market value and sparking chip rotation**  
-   Following reports that Nvidia's board was preparing to oust him, CEO Jensen Huang resigned on Thursday and Colette Kress was named interim CEO amid deepening scrutiny over two extramarital affairs—one with a direct report and another with Megaspeed executive and alleged Chinese intelligence asset Alice Huang, who also held stakes in computing providers for rival Huawei. Nvidia shares fell another 5% on Thursday—putting the stock on track for its longest weekly losing streak since 2012 with a $1.6 trillion market-value loss before inching higher Friday—while prompting a rotation into competitors AMD and Broadcom and casting a shadow over Wall Street's $500 billion AI financing bet.
+1. **Nvidia shares resume slide as shareholders back Jensen Huang comeback while Bessent urges outside CEO**  
+   Following Jensen Huang's Thursday resignation and a tiny Friday morning bounce, Nvidia shares slid again to pull broader U.S. stocks lower ahead of the chipmaker's upcoming earnings report and Anthropic's IPO next week. Meanwhile, a battle over Nvidia's leadership has emerged: Huang has discussed a potential comeback with allies as tech executives and major shareholders back his return, whereas Treasury Secretary Scott Bessent called for a dramatic shakeup and urged the appointment of an outside CEO while criticizing Howard Lutnick's Commerce Department over suspected chip diversion to China.
 
-2. **IEA projects global oil supply surplus on surging Iraq and UAE exports as Trump dismisses need for Iran deal**  
-   The International Energy Agency projected that global oil markets will swing to a supply surplus for the first time since the Iran war began, driven by recovering Persian Gulf exports as Iraq's October crude output jumped to its highest level since 2019 and UAE production held near recent highs despite shipping disruptions. Meanwhile, President Donald Trump declared the U.S. does not need a deal with Iran, dimming prospects for a diplomatic breakthrough and nudging oil prices higher after earlier de-escalation hopes had pushed Brent crude below $90 a barrel.
+2. **U.S. and allies sign accord to exclude China from AI supply chains ahead of Trump-Xi talks**  
+   The United States and key allies signed a new accord aimed at countering China on artificial intelligence and keeping Beijing out of AI supply chains. The agreement comes ahead of diplomatic meetings between U.S. President Donald Trump and Chinese President Xi Jinping this week and amidst heightened Washington scrutiny over suspected AI chip diversion to China.
 
-3. **Anthropic IPO is roughly 6x oversubscribed as offering targets $64.4B public raise and $26B private placement**  
-   Following Anthropic's announcement of a $70 to $78 IPO price range targeting a valuation up to $1.4 trillion, the offering is now reportedly about six times oversubscribed. The AI lab and its co-founders are seeking to raise $64.4 billion in the public listing alongside $26 billion in a private placement, making it larger than SpaceX's IPO and potentially the biggest initial public offering in history.
+3. **China's October industrial output, retail sales, and investment miss estimates as domestic slowdown deepens**  
+   Compounding October's weaker-than-expected credit figures and loan contraction, China's October industrial output, retail sales, and investment all missed analyst estimates. The broad-based slowdown underscores fading domestic economic momentum and leaves China increasingly reliant on external demand.
 
-4. **China's October credit expansion misses expectations as loans contract for a third time this year**  
-   China's credit growth fell short of expectations in October, with loans contracting for the third time this year. The data shows that increased policy support from Beijing is struggling to offset persistently weak domestic borrowing demand, contrasting with the country's record cross-border yuan flows and a goods trade surplus exceeding $1 trillion.
+4. **Japan's economy unexpectedly contracts in Q3 after subsidy expiration exposes households to Iran war energy costs**  
+   Japan's economy unexpectedly contracted in the third quarter as elevated energy costs weighed on activity. The expiration of household energy subsidies in September left the economy directly exposed to higher energy prices driven by the ongoing Iran war.
 
-5. **Microsoft Outlook and 365 outage extends past 12 hours alongside AWS and Google disruptions**  
-   A major Microsoft cloud and Azure disruption knocked Outlook and Microsoft 365 offline for more than 12 hours starting Thursday. Users of Amazon Web Services and Google also reported service outages on Thursday.
+5. **U.S. 10-year Treasury yield pulls back as TD Securities backs buying dips**  
+   After hotter-than-expected October CPI data and hawkish Federal Reserve commentary previously drove the 10-year U.S. Treasury yield back to 5%, the 10-year yield fell on Monday. TD Securities stated that 10-year Treasurys are attractive to buy during phases of weakness.
