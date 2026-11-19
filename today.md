@@ -1,18 +1,18 @@
-# Market Watch — 2026-11-18
+# Market Watch — 2026-11-19
 
-Updated: 2026-11-18T07:24:41.920749-05:00
+Updated: 2026-11-19T07:30:33.570560-05:00
 
-1. **Nvidia lifts sales guidance as SEC probes company and board rules out Jensen Huang return**  
-   In its first earnings report since Jensen Huang's resignation, Nvidia raised its sales guidance as revenues hit $104 billion, though an initial equity rebound pared gains amid slower retail sales and ongoing wariness over the AI trade. Meanwhile, regulatory and governance pressures deepened: the SEC launched a probe into Nvidia, the company stopped disclosing Singapore sales, and the board indicated it is not considering reinstating Huang as CEO despite earlier shareholder calls for his return. Separately, the Commerce and Justice departments disclosed that U.S. investigations into Nvidia partner Megaspeed began in 2024, and Nvidia warned chip buyers of legal risks tied to China AI access as the Commerce Department moves to tighten export controls.
+1. **Anthropic prices upsized IPO at $83 a share to raise record $81B+**  
+   Following earlier guidance that it would price at or above its $70 to $78 range, Anthropic priced its upsized IPO at $83 a share, raising over $81 billion in the base offering and $107.3 billion alongside co-founder share sales and a private placement. The deal tops SpaceX's $75 billion base offering as the largest IPO on record, with shares set to begin trading Thursday on the Nasdaq under the ticker ANT and delivering a $3 billion windfall for early investor SK Telecom.
 
-2. **Anthropic guides IPO pricing to top of $70–$78 range or above as Amazon and Google hold 28% stake**  
-   Following reports that its offering was roughly six times oversubscribed, Anthropic is guiding prospective investors that it expects to price its IPO at the top of or above its $70 to $78 per share range. Filings also show that two of Anthropic's largest customers, Amazon and Google, will hold more than 28% of its stock in aggregate after the company goes public.
+2. **Fed Governor Waller floats 50-bps December hike as FOMC minutes flag AI inflation risks**  
+   Minutes from the Federal Reserve's October meeting, where policymakers held the benchmark rate at 3.75% to 4%, showed officials expect further rate hikes and are concerned about the inflationary impact of AI. Reinforcing the hawkish shift after recent hot inflation data, Fed Governor Christopher Waller urged the central bank to consider a half-percentage-point rate hike at its December meeting to combat inflation remaining above its 2% target.
 
-3. **Widespread tech outages disrupt banks, air travel, the NSA, and Apple**  
-   Extending earlier disruptions at JPMorgan Chase and U.S. online banking, widespread outages hit banks, air travel, the National Security Agency, and Apple. The cascading disruptions highlight the operational vulnerabilities of interconnected technology infrastructure.
+3. **Nvidia shares fall 2.9% for fifth straight loss as earnings call fails to calm post-Huang nerves**  
+   Although Nvidia's raised sales forecast under interim CEO Colette Kress initially lifted global tech and U.S. equity futures, the chipmaker's shares ultimately fell 2.9% on Wednesday for a fifth consecutive session of losses. Investors remained unconvinced by the earnings call as the board maintained that ousted CEO Jensen Huang will not be reinstated.
 
-4. **Japan's October exports surge 20.5% on nearly 50% jump in semiconductor shipments**  
-   Japan's exports jumped 20.5% year-on-year in October, beating estimates as semiconductor shipments spiked nearly 50%. The strong external chip demand arrives even as Japan's broader domestic economy contracted in the third quarter under the weight of elevated energy costs.
+4. **Palo Alto Networks acquires AI startup Applied Compute for $4.5B as shares jump 7%**  
+   Palo Alto Networks agreed to acquire AI startup Applied Compute for $4.5 billion as it expands its portfolio of cybersecurity tools to counter AI threats. The company's shares rose 7% following its earnings report, helping drive a broader cybersecurity rally that supported technology stocks.
 
-5. **U.S. homebuilder sentiment plunges to 14-year low as slower retail sales weigh on markets**  
-   U.S. homebuilder sentiment fell to a 14-year low due to high mortgage rates and elevated costs for energy, labor, and materials, prompting more builders to cut prices. At the same time, slower U.S. retail sales dragged on the broader equity market.
+5. **Outbound LNG tanker traffic through Strait of Hormuz slows after Middle East attacks**  
+   Satellite and ship-tracking data indicate that outbound liquefied natural gas tanker traffic through the Strait of Hormuz declined over the past week. The slowdown suggests shipowners are exercising greater caution following a recent flurry of attacks in the Middle East.
