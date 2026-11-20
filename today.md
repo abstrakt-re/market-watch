@@ -1,18 +1,18 @@
-# Market Watch — 2026-11-19
+# Market Watch — 2026-11-20
 
-Updated: 2026-11-19T07:30:33.570560-05:00
+Updated: 2026-11-20T07:33:43.226279-05:00
 
-1. **Anthropic prices upsized IPO at $83 a share to raise record $81B+**  
-   Following earlier guidance that it would price at or above its $70 to $78 range, Anthropic priced its upsized IPO at $83 a share, raising over $81 billion in the base offering and $107.3 billion alongside co-founder share sales and a private placement. The deal tops SpaceX's $75 billion base offering as the largest IPO on record, with shares set to begin trading Thursday on the Nasdaq under the ticker ANT and delivering a $3 billion windfall for early investor SK Telecom.
+1. **Nasdaq drops 2.3% and SoftBank plunges 16% as Anthropic debut fails to halt AI sell-off**  
+   Following its record $107.3 billion IPO and private placement pricing at $83 a share, Anthropic debuted on the Nasdaq on Thursday under the ticker ANT, initially lifting U.S. equity futures as gray markets pointed to a jump above 20%. However, the debut failed to halt a broader AI and technology sell-off: the Nasdaq Composite dropped 2.3% on Thursday in a volatile session, and the rout spread to Asian tech stocks on Friday as SoftBank shares plunged more than 16%.
 
-2. **Fed Governor Waller floats 50-bps December hike as FOMC minutes flag AI inflation risks**  
-   Minutes from the Federal Reserve's October meeting, where policymakers held the benchmark rate at 3.75% to 4%, showed officials expect further rate hikes and are concerned about the inflationary impact of AI. Reinforcing the hawkish shift after recent hot inflation data, Fed Governor Christopher Waller urged the central bank to consider a half-percentage-point rate hike at its December meeting to combat inflation remaining above its 2% target.
+2. **Trump, Xi, and Putin agree to boost global fuel supplies at Shenzhen trilateral summit**  
+   U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin held a trilateral meeting in Shenzhen on the sidelines of the APEC summit and agreed to boost global fuel supplies. While the leaders also discussed Ukraine and denuclearization, the talks yielded few other concrete results.
 
-3. **Nvidia shares fall 2.9% for fifth straight loss as earnings call fails to calm post-Huang nerves**  
-   Although Nvidia's raised sales forecast under interim CEO Colette Kress initially lifted global tech and U.S. equity futures, the chipmaker's shares ultimately fell 2.9% on Wednesday for a fifth consecutive session of losses. Investors remained unconvinced by the earnings call as the board maintained that ousted CEO Jensen Huang will not be reinstated.
+3. **AMD drops 7% on China short report as California subpoenas Nvidia and Congress scrutinizes 879K chip approvals**  
+   Expanding regulatory and market scrutiny beyond earlier federal probes into Nvidia, AMD shares closed down over 7% after a short seller alleged its firmware appeared at a blacklisted Chinese company, though AMD stated it complies with U.S. law. Meanwhile, California Attorney General Rob Bonta issued a subpoena to Nvidia in an investigation into China chip diversion, and Rep. Brian Mast disclosed that the Commerce Department approved sales of more than 879,000 AI chips to Chinese companies as lawmakers push for tighter export controls.
 
-4. **Palo Alto Networks acquires AI startup Applied Compute for $4.5B as shares jump 7%**  
-   Palo Alto Networks agreed to acquire AI startup Applied Compute for $4.5 billion as it expands its portfolio of cybersecurity tools to counter AI threats. The company's shares rose 7% following its earnings report, helping drive a broader cybersecurity rally that supported technology stocks.
+4. **Iran intensifies Strait of Hormuz oil tanker attacks amid sliding crude prices**  
+   Following an earlier slowdown in outbound liquefied natural gas tanker traffic through the Strait of Hormuz, Iran has intensified its attacks on oil tankers crossing the waterway. The escalation comes even as crude oil prices have slid amid surging Middle East supply.
 
-5. **Outbound LNG tanker traffic through Strait of Hormuz slows after Middle East attacks**  
-   Satellite and ship-tracking data indicate that outbound liquefied natural gas tanker traffic through the Strait of Hormuz declined over the past week. The slowdown suggests shipowners are exercising greater caution following a recent flurry of attacks in the Middle East.
+5. **Japan core inflation hits year high after energy subsidies expire**  
+   Japan's core inflation, which excludes food prices, rose to its highest level this year after the expiration of household energy subsidies pushed up consumer prices, though the reading came in below the 2.3% expected by economists. The price acceleration follows a third-quarter contraction in Japan's economy driven by elevated energy costs.
